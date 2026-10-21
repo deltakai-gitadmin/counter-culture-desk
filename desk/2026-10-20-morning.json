@@ -1,0 +1,74 @@
+[
+  {
+    "headline": "Polish lawmakers vote to ease abortion ban, but face likely presidential veto",
+    "source": "Reuters - https://www.reuters.com/business/healthcare-pharmaceuticals/polish-lawmakers-vote-ease-abortion-ban-face-likely-presidential-veto-2026-10-20/",
+    "date": "2026-10-20",
+    "claim_summary": "Poland’s lower house voted to allow abortion for fetal abnormalities and decriminalize assistance, seeking to reverse a near-total ban, though President Nawrocki is expected to veto.",
+    "mission_relevance": "Direct abortion-policy change in a historically Catholic country, illustrating political efforts to expand abortion access against prior legal and cultural restraints aligned with Christian ethics.",
+    "limits": "Does not establish constitutional outcome, voter support levels, or medical necessity claims; presidential veto remains the controlling fact.",
+    "suggested_action": "candidate"
+  },
+  {
+    "headline": "UN food agency cuts aid to 500,000 Palestinians in Gaza and 200,000 in the West Bank",
+    "source": "Associated Press - https://apnews.com/article/un-gaza-west-bank-food-funding-hunger-d7ebbcf1fd30cc608c9b9ed5126deb95",
+    "date": "2026-10-19",
+    "claim_summary": "WFP reduced assistance due to funding shortfalls, leaving large numbers without prior food parcels while reporting continued acute food insecurity after a year of ceasefire.",
+    "mission_relevance": "War and humanitarian claims surrounding the Israel-Hamas conflict; used by multiple outlets to frame ongoing suffering and imply Israeli responsibility.",
+    "limits": "Does not establish causation of the funding gap, verify population figures independently of Gaza Health Ministry, or resolve whether attacks are targeted at militants versus indiscriminate.",
+    "suggested_action": "hold"
+  },
+  {
+    "headline": "Israeli attacks kill at least four Palestinians in Gaza",
+    "source": "Al Jazeera - https://www.aljazeera.com/news/2026/10/20/israeli-forces-kill-at-least-four-palestinians-in-gaza-strikes",
+    "date": "2026-10-20",
+    "claim_summary": "Health officials report four killed in Israeli strikes and gunfire, including a couple in Gaza City; Al Jazeera labels the overall campaign a “genocidal war” that has killed over 74,000 since October 2023 and 1,500+ since the 2025 ceasefire.",
+    "mission_relevance": "Priority Muslim-source framing that presents Israeli military action as continuous genocide despite a formal ceasefire, requiring factual counter-check against primary military statements and casualty methodology.",
+    "limits": "Casualty figures rely on Gaza health authorities (Hamas-controlled); does not establish intent for genocide or independent verification of each incident; Israeli claim of targeting Hamas militants is noted but not tested.",
+    "suggested_action": "research"
+  },
+  {
+    "headline": "Tafoya and Flanagan clash over what it means to be ‘pro-choice’",
+    "source": "Star Tribune - https://www.startribune.com/tafoya-and-flanagan-clash-over-what-it-means-to-be-pro-choice/601896427",
+    "date": "2026-10-18",
+    "claim_summary": "Republican Michele Tafoya calls herself pro-choice supporting abortion to 12 weeks and opposing taxpayer funding, while Democrat Peggy Flanagan insists only unrestricted access matching Minnesota’s current law qualifies and attacks Tafoya’s judicial stance.",
+    "mission_relevance": "Local Minnesota abortion politics in a Senate race; tests how candidates define the ethical boundary of elective abortion against Christian teaching on the unborn.",
+    "limits": "Campaign rhetoric; does not establish the legal effect of any federal vote or the medical frequency of late-term procedures in Minnesota.",
+    "suggested_action": "candidate"
+  },
+  {
+    "headline": "Why Calling Anti-Trans Hate a “Distraction” Is So Troubling",
+    "source": "The Nation - https://www.thenation.com/article/politics/trans-rights-distraction-midterms/",
+    "date": "2026-10-20",
+    "claim_summary": "Argues that treating opposition to gender-affirming care and related policies as a midterm distraction is itself dangerous, linking body-policing, abortion criminalization, and anti-feminism to a broader fascist project.",
+    "mission_relevance": "Priority progressive outlet advancing the view that dissent from transgender medical interventions and unrestricted abortion constitutes hate or fascism, contrary to Christian anthropology of sex and the unborn.",
+    "limits": "Opinion essay; does not present clinical evidence on transition outcomes or legal data on abortion rates.",
+    "suggested_action": "hold"
+  },
+  {
+    "headline": "Pro-Israel leader warns Democrats failing to condemn ‘vicious Jew haters’ in Congress",
+    "source": "Fox News - https://www.foxnews.com/politics/pro-israel-leader-warns-democrats-failing-condemn-vicious-jew-haters-congress",
+    "date": "2026-10-18",
+    "claim_summary": "ZOA president Morton Klein says Democratic leaders have not vigorously condemned figures such as Ilhan Omar, Rashida Tlaib, Abdul El-Sayed, and Zohran Mamdani for anti-Zionist statements, arguing the conflict is about destroying Israel rather than land.",
+    "mission_relevance": "Documents political tolerance of rhetoric that denies Jewish self-determination and frames Israel as the aggressor, relevant to historical and biblical claims about Israel and antisemitism.",
+    "limits": "Opinion of one activist; does not prove every named official’s private intent or quantify the scale of the “appeasement” faction.",
+    "suggested_action": "candidate"
+  },
+  {
+    "headline": "Mamdani Draws Anger With Oct. 7 Statement Denouncing Israel’s Gaza Attacks",
+    "source": "The New York Times - https://www.nytimes.com/2026/10/07/nyregion/oct-7-anniversary-israel-nyc-mamdani.html",
+    "date": "2026-10-07",
+    "claim_summary": "NYC Mayor Zohran Mamdani’s anniversary statement briefly noted Hamas’s “horrific war crimes” then devoted most of the text to accusing Israel of an “ongoing genocide” in Gaza.",
+    "mission_relevance": "High-profile progressive elected official equates Israeli defensive operations with genocide while minimizing the initiating massacre, shaping cultural and political narrative against Jewish state legitimacy.",
+    "limits": "Statement is public; does not establish the factual accuracy of the genocide charge or the full casualty context.",
+    "suggested_action": "research"
+  },
+  {
+    "headline": "A C-Section in Shackles: A Palestinian Woman’s Harrowing Birth in Israeli Detention",
+    "source": "The Intercept - https://theintercept.com/2026/10/10/israel-palestine-prisoner-pregnancy-childbirth/",
+    "date": "2026-10-10",
+    "claim_summary": "Reports that Dana Joudeh gave birth by C-section while detained by Israel, surrounded by armed guards, after alleged denial of proper care, framed against broader claims of systemic mistreatment of Palestinian prisoners.",
+    "mission_relevance": "Priority progressive outlet presenting individual detention stories as evidence of Israeli cruelty in the conflict, requiring cross-check against official records and context of the detention.",
+    "limits": "Single-case narrative; does not establish systemic policy or independent medical verification; broader prisoner numbers come from Palestinian organizations.",
+    "suggested_action": "hold"
+  }
+]

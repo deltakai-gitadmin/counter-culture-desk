@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-21",
+  "scan_type": "morning",
+  "items": [
+    {
+      "headline": "When Idaho Banned Abortion, OB-GYNs Fled. The Doctors Who Stayed Are Cracking.",
+      "source": "The New York Times https://www.nytimes.com/2026/10/20/magazine/idaho-abortion-ban-ob-gyns.html",
+      "date": "2026-10-20",
+      "claim_summary": "A near-total abortion ban in Idaho since 2022 has caused more than a third of the state's OB-GYNs to leave, retire, or stop practicing obstetrics, leaving rural areas without care and increasing risks for pregnant women.",
+      "mission_relevance": "Frames post-Dobbs restrictions as causing a medical crisis, advancing a progressive narrative against abortion limits that aligns with opposition to Christian ethics on the sanctity of life.",
+      "limits": "Relies on interviews and a prior JAMA study; does not establish causation independent of other factors like rural economics or compensation, nor does it address fetal outcomes or the legal status of elective abortion.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "The terrifying future of states’ criminalizing pregnant people is already here",
+      "source": "The Washington Post (via The Nation) https://www.washingtonpost.com/ripple/2026/10/20/criminalization-pregnancy-substance-abuse-dobbs/",
+      "date": "2026-10-21",
+      "claim_summary": "Hundreds of people annually are prosecuted for pregnancy outcomes, mostly drug-related live births, with rising cases of pregnancy loss criminalization since Dobbs, while bills to charge abortion as homicide have not passed.",
+      "mission_relevance": "Portrays enforcement of laws protecting the unborn as 'criminalizing pregnant people,' a framing that obscures the distinction between elective abortion and other outcomes and opposes Christian views of fetal personhood.",
+      "limits": "Does not quantify the proportion of cases involving elective abortion versus miscarriage, stillbirth, or substance abuse; source is opinion-adjacent and does not cite primary case records for the 'rising minority.'",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "Israeli fire kills four people in Gaza, medics say",
+      "source": "Reuters https://www.reuters.com/world/middle-east/israeli-fire-kills-four-people-gaza-medics-say-2026-10-20/",
+      "date": "2026-10-20",
+      "claim_summary": "Israeli strikes and gunfire killed at least four Palestinians, including a couple and a 17-year-old, on Tuesday; the Israeli military identified one victim as a senior Hamas security official.",
+      "mission_relevance": "Ongoing war reporting that Muslim-aligned sources frame as continued 'genocide' or ceasefire violations, requiring factual response on Hamas targeting and historical context of the conflict.",
+      "limits": "Casualty figures come from Gaza health officials (Hamas-run); does not independently verify civilian status of all victims or full operational context of each incident.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Israeli attacks kill at least four Palestinians in Gaza",
+      "source": "Al Jazeera https://www.aljazeera.com/news/2026/10/20/israeli-forces-kill-at-least-four-palestinians-in-gaza-strikes",
+      "date": "2026-10-20",
+      "claim_summary": "Al Jazeera reports the same four deaths and cites Gaza health authorities claiming 74,480 total killed since October 2023 and 1,522 since the October 2025 ceasefire, describing the war as 'genocidal.'",
+      "mission_relevance": "Priority Muslim source advancing high casualty and 'genocide' claims that distort historical and legal realities of the Israel-Hamas war, demanding source-checked biblical and factual response.",
+      "limits": "Relies exclusively on Hamas-controlled Gaza Health Ministry figures; does not provide Israeli military context for each strike or independent verification of the cumulative totals.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Palestinian activist Mahmoud Khalil asks US Supreme Court to hear case seeking to avoid re-arrest",
+      "source": "Reuters https://www.reuters.com/world/palestinian-activist-mahmoud-khalil-asks-us-supreme-court-hear-case-seeking-2026-10-19/",
+      "date": "2026-10-19",
+      "claim_summary": "Mahmoud Khalil, a Columbia graduate and pro-Palestinian activist arrested in 2025, petitioned the Supreme Court to block potential re-arrest and deportation, arguing First Amendment protection for his speech.",
+      "mission_relevance": "Highlights campus activism and immigration enforcement intersecting with anti-Israel claims that often include antisemitic elements and oppose Christian historical understanding of the region.",
+      "limits": "Does not detail the content of Khalil's specific statements or establish that his detention was solely speech-based rather than immigration or foreign-policy grounds asserted by the administration.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "High school league weighs proposal to limit transgender athletes’ eligibility",
+      "source": "Minnesota Star Tribune https://varsity.startribune.com/high-school-league-weighs-proposal-to-limit-transgender-athletes-eligibility/601899152",
+      "date": "2026-10-08",
+      "claim_summary": "The Minnesota State High School League discussed a Make It Fair MN proposal to amend bylaws so sex-separated sports eligibility is based on biological sex at birth rather than gender identity.",
+      "mission_relevance": "Local Minnesota policy fight over biological sex in girls' sports, a cultural issue that conflicts with Christian anthropology of male and female and is advanced under progressive 'inclusion' framing.",
+      "limits": "Article covers the discussion stage only; the proposal has not advanced to a final vote, and no specific injury or fairness data from Minnesota competitions is presented.",
+      "suggested_action": "candidate"
+    },
+    {
+      "headline": "Trump presents check to Nick Shirley as administration launches fraud whistleblower program",
+      "source": "Independent journalist Nick Shirley (YouTube/X); reported via news.com.au and FOX Business https://www.news.com.au/world/north-america/us-politics/world-events-us-politics-live-updates-france-imposes-new-curfews-as-pm-seeks-to-regain-control-after-unrest/live-coverage/d1369bd6413b2865eaacccf9d402aba9",
+      "date": "2026-10-20",
+      "claim_summary": "President Trump awarded YouTuber Nick Shirley $10,000 and highlighted a new federal Fraud Whistleblower Incentive Program after Shirley's viral reporting on alleged Minnesota childcare subsidy fraud involving the Somali community.",
+      "mission_relevance": "Independent reporting on large-scale public fraud in Minnesota that touches political and cultural claims of victimhood, requiring factual accountability consistent with biblical standards of justice and truth.",
+      "limits": "Shirley's original video claims have been contested by some local officials; the White House event does not constitute a formal finding of specific criminal liability for named individuals.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "Supreme Court to decide whether to ban trans women from women’s sports",
+      "source": "Vox https://www.vox.com/politics/507025/supreme-court-kmk-washington-transgender-sports",
+      "date": "2026-10-20",
+      "claim_summary": "A shadow-docket case, K.M.K. v. Washington Interscholastic Activities Association, asks the Supreme Court to effectively bar transgender-identified males from women's high school and college sports teams.",
+      "mission_relevance": "Progressive outlet framing biological-sex sports categories as a 'ban' that harms 'trans women,' opposing the Christian and scientific recognition of sex as binary and relevant to fair competition.",
+      "limits": "Opinion analysis; does not present the full procedural posture or the scientific evidence on male physiological advantage that lower courts and other states have considered.",
+      "suggested_action": "hold"
+    }
+  ]
+}
