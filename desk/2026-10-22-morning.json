@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-22",
+  "items": [
+    {
+      "headline": "When Idaho Banned Abortion, OB-GYNs Fled. The Doctors Who Stayed Are Cracking.",
+      "source": "The New York Times https://www.nytimes.com/2026/10/20/magazine/idaho-abortion-ban-ob-gyns.html",
+      "date": "2026-10-20",
+      "claim_summary": "Since Idaho's near-total abortion ban, more than a third of the state's OB-GYNs have left or stopped practicing obstetrics, leaving half of counties without one and increasing risks for pregnant women.",
+      "mission_relevance": "Frames post-Dobbs abortion restrictions as causing a healthcare crisis that endangers women, a common progressive claim that requires factual counter on maternal outcomes, exceptions, and actual practice patterns.",
+      "limits": "Does not establish causation solely from the ban versus other factors; selective anecdotes; no comparison of maternal mortality rates pre/post or with states that retained access; reporter has co-authored a book on the end of Roe.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "The Terrifying Future of States’ Criminalizing Pregnant People Is Already Here",
+      "source": "The Nation https://www.thenation.com/article/society/criminalization-pregnancy-substance-abuse-dobbs/",
+      "date": "2026-10-20",
+      "claim_summary": "Pregnancy Justice reports 902 people faced criminal charges related to pregnancy, pregnancy loss, or birth in the first three years after Dobbs, mostly for substance use, with a rise in pregnancy-loss prosecutions.",
+      "mission_relevance": "Progressive outlet amplifies claims that post-Dobbs enforcement criminalizes pregnancy outcomes rather than protecting unborn life, demanding scrutiny of the underlying data, prosecutorial discretion, and pre-Dobbs baselines.",
+      "limits": "Report is advocacy-sourced; majority of cases involve substance use during pregnancy rather than abortion itself (only 13 related to abortion); does not prove bans caused the increase or that prosecutions are unjustified; no independent verification of the full case set.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Israeli attacks kill at least four Palestinians in Gaza",
+      "source": "Al Jazeera https://www.aljazeera.com/news/2026/10/20/israeli-forces-kill-at-least-four-palestinians-in-gaza-strikes",
+      "date": "2026-10-20",
+      "claim_summary": "Israeli strikes and gunfire killed at least four Palestinians, including a couple and a 17-year-old, according to Gaza health officials, with the outlet labeling the war genocidal and citing cumulative death totals of 74,480.",
+      "mission_relevance": "Muslim-majority outlet frames ongoing Israeli actions as crimes against humanity and genocide despite the ceasefire, a recurring narrative that requires cross-check against Israeli statements, Hamas targeting claims, and casualty verification standards.",
+      "limits": "Relies on Gaza health officials (Hamas-controlled); does not include Israeli military response in the initial framing; cumulative totals contested; 'genocidal' is editorial characterization, not established fact.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Minnesota high school leaders weigh transgender proposal",
+      "source": "Minnesota Star Tribune https://varsity.startribune.com/high-school-league-weighs-proposal-to-limit-transgender-athletes-eligibility/601899152",
+      "date": "2026-10-08",
+      "claim_summary": "The Minnesota State High School League is discussing a proposal that would restrict athletes to teams matching biological sex assigned at birth, pushed by Make It Fair MN amid existing policy allowing participation by gender identity.",
+      "mission_relevance": "Local Minnesota issue touches biological sex reality, fairness in girls' sports, and parental/school policy conflicts with gender-identity ideology that contradicts Christian anthropology of created male and female.",
+      "limits": "Proposal is early-stage discussion only; no final vote; does not quantify number of biological males currently competing in girls' sports or document specific competitive outcomes.",
+      "suggested_action": "candidate"
+    },
+    {
+      "headline": "World Food Programme cuts aid to 500,000 Palestinians in Gaza, cites funding shortages",
+      "source": "Reuters https://www.reuters.com/world/middle-east/world-food-programme-cuts-aid-500000-palestinians-gaza-citing-funding-shortages-2026-10-19/",
+      "date": "2026-10-19",
+      "claim_summary": "WFP is reducing monthly food assistance recipients from 1.6 million to 1.1 million due to funding shortfalls, with two-thirds of Gaza's population facing crisis-level food insecurity a year into the ceasefire.",
+      "mission_relevance": "Humanitarian claims around Gaza aid and ceasefire implementation are central to war narratives used to indict Israel; facts of funding, distribution, and diversion require examination against both sides' records.",
+      "limits": "Does not establish primary cause of shortages (funding vs. diversion, security, or prior destruction); WFP statements are operational, not a full forensic accounting of aid flows or Hamas role.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "Life Is on the Ballot This November",
+      "source": "National Review https://www.nationalreview.com/2026/10/life-is-on-the-ballot-this-november/",
+      "date": "2026-10-19",
+      "claim_summary": "Voters in Virginia, Idaho, Nevada, and Missouri face ballot measures that would constitutionalize expansive abortion rights (and potentially gender procedures), limiting legislative control even for minors.",
+      "mission_relevance": "Directly engages abortion as a moral and legal question of the unborn, highlighting progressive ballot strategies that embed contested rights claims into state constitutions.",
+      "limits": "Opinion analysis of proposed language; does not report polling or final ballot text in all cases; National Review is mission-aligned but still requires primary text verification of each measure.",
+      "suggested_action": "candidate"
+    },
+    {
+      "headline": "Polish lawmakers vote to ease abortion ban, but face likely presidential veto",
+      "source": "Reuters https://www.reuters.com/business/healthcare-pharmaceuticals/polish-lawmakers-vote-ease-abortion-ban-face-likely-presidential-veto-2026-10-20/",
+      "date": "2026-10-20",
+      "claim_summary": "Poland's lower house voted to allow abortion for fetal abnormalities and decriminalize assistance, seeking to reverse the 2021 near-total ban, though the nationalist president is expected to veto.",
+      "mission_relevance": "European Catholic-majority country faces progressive push to expand abortion access after a court-backed restriction, illustrating global cultural conflict over unborn life versus 'reproductive rights' framing.",
+      "limits": "Does not detail the exact bill text or vote margins; presidential veto is prospective; does not address underlying demographics or protest claims beyond summary.",
+      "suggested_action": "hold"
+    }
+  ]
+}
