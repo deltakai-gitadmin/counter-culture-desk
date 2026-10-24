@@ -1,1 +1,77 @@
-PLACEHOLDER
+{
+  "date": "2026-10-24",
+  "items": [
+    {
+      "headline": "Demuth, Klobuchar differ on abortion law but issue isn\u2019t as top of mind this year",
+      "source": "MPR News https://www.mprnews.org/story/2026/10/23/demuth-klobuchar-differ-on-abortion-law-but-issue-isnt-top-of-mind-election",
+      "date": "2026-10-23",
+      "claim_summary": "Minnesota gubernatorial candidates Amy Klobuchar and Lisa Demuth both say they will not seek to roll back the state's existing abortion access law, though Demuth previously authored a bill without rape or incest exceptions and received MCCL endorsement.",
+      "mission_relevance": "Minnesota governor's race treats abortion as settled law while progressive framing downplays the moral stakes; requires biblical counter on the protection of unborn life and historical accuracy on candidate records.",
+      "limits": "Does not quote full text or legislative history of Demuth's prior bill; Demuth's current stance is post-debate summary; does not establish voter priority data beyond reporter framing.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Israeli soldiers raze neighbourhood in Hebron after attack, Netanyahu vows to destroy place",
+      "source": "The Guardian https://www.theguardian.com/world/israel+palestinian-territories",
+      "date": "2026-10-24",
+      "claim_summary": "Israeli forces are reported to be razing a Hebron neighbourhood and driving families from homes in retaliation for a militant attack on an army checkpoint, with PM Netanyahu vowing to destroy the place.",
+      "mission_relevance": "War reporting from progressive outlet frames Israeli response as collective punishment; requires fact-checking of incident sequence, Israeli claims of terror attack, and historical context of Hebron violence against Christian ethics on just war and non-combatants.",
+      "limits": "Live or same-day reporting; does not independently verify the attack details or number of families displaced; Netanyahu quote is summarized; no primary Israeli military statement included in the snippet.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "At least eight Palestinians killed in Israeli strikes on Gaza in 48 hours",
+      "source": "L'Orient Today / AFP https://today.lorientlejour.com/article/1551938/at-least-eight-palestinians-killed-in-israeli-strikes-on-gaza-in-48-hours.html",
+      "date": "2026-10-24",
+      "claim_summary": "Gaza Health Ministry reports at least eight Palestinians killed in Israeli strikes over 48 hours, with total post-ceasefire deaths claimed at 1,547 and overall war toll at 74,540.",
+      "mission_relevance": "Muslim-adjacent and international reporting continues to cite Gaza Health Ministry figures without independent verification, a pattern of selective sourcing that requires historical and factual counter on casualty methodology and Hamas role.",
+      "limits": "Relies on Gaza Health Ministry (Hamas-controlled) figures; does not distinguish combatants from civilians or verify each strike; Israeli military statements on targeting Hamas not detailed; ceasefire context is contested.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "LIVE: 2,200 Palestinians forced to evacuate Hebron homes amid Israeli raids",
+      "source": "Al Jazeera https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack",
+      "date": "2026-10-24",
+      "claim_summary": "Al Jazeera reports Hebron mayor stating around 2,200 Palestinians forcibly displaced from al-Jalda and Ein Deir Bahha neighbourhoods as Israeli forces conduct raids after a shooting that killed two soldiers.",
+      "mission_relevance": "Priority Muslim source frames Israeli security operation as forced displacement without equivalent weight to the preceding attack on soldiers; typical of selective framing that requires balanced historical and biblical analysis of self-defense and land claims.",
+      "limits": "Live blog citing local mayor; numbers of displaced are not independently verified; does not detail the attack that prompted the operation or Israeli legal basis; Israeli perspective is secondary.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "FDA says mifepristone safety review will be completed by March 2027",
+      "source": "Reuters https://www.reuters.com/legal/government/abortion-drug-safety-review-will-be-completed-by-march-us-fda-says-2026-10-08/",
+      "date": "2026-10-08",
+      "claim_summary": "The FDA told a federal court it expects study results on mifepristone safety risks in December 2026 and a report by March 2027, potentially leading to limits on telemedicine and mail access.",
+      "mission_relevance": "Ongoing federal review of the primary abortion drug touches contested medical claims about safety and access; progressive sources treat any restriction as attack on rights, requiring scientific and ethical scrutiny against Christian anthropology.",
+      "limits": "Court filing only; does not include interim findings or methodology details; outcome of review is unknown; does not address abortion rate data or chemical abortion complications independently.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "More Than 900 People Have Faced Pregnancy Criminalization After Dobbs",
+      "source": "Jezebel https://www.jezebel.com/more-than-900-people-have-faced-pregnancy-criminalization-after-dobbs",
+      "date": "2026-10-21",
+      "claim_summary": "Pregnancy Justice reports 902 people charged for pregnancy-related offenses since Dobbs, mostly substance use, with claims that pregnancy loss is increasingly treated as criminally suspicious.",
+      "mission_relevance": "Priority progressive feminist outlet frames post-Dobbs enforcement as criminalization of pregnancy, requiring examination of actual statutes, data methodology, and Christian ethics distinguishing abortion from ordinary law enforcement.",
+      "limits": "Advocacy group data; does not break down case outcomes, convictions, or whether charges were for abortion versus other crimes; majority involve substance use; does not address fetal personhood or state laws accurately.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Justice Dept. Issues Subpoenas in Ilhan Omar Investigation",
+      "source": "The New York Times https://www.nytimes.com/2026/10/13/us/politics/justice-dept-ilhan-omar-subpoenas.html",
+      "date": "2026-10-13",
+      "claim_summary": "Federal investigators have issued subpoenas to relatives including Omar's sister and searched her home as part of an inquiry into family immigration paperwork and possible fraud or false statements.",
+      "mission_relevance": "Minnesota Democratic congresswoman under federal probe on immigration history; progressive sources frame as political weaponization, while facts of subpoenas and warrants require careful distinction between investigation and proven charges.",
+      "limits": "Anonymous sources; no charges filed; investigation ongoing; does not establish that fraud occurred; Omar denies wrongdoing; timing before election is noted but not proven as improper.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "16 Minnesota school districts face legal challenge over sexual identity policies",
+      "source": "American Experiment https://www.americanexperiment.org/16-minnesota-school-districts-face-legal-challenge-over-sexual-identity-policies/",
+      "date": "2026-10-08",
+      "claim_summary": "Upper Midwest Law Center requested federal investigation into 16 Minnesota districts and MSHSL for Title IX violations by allowing biological males in girls' sports, facilities, and social transitions without parental consent.",
+      "mission_relevance": "Minnesota school policies on gender identity conflict with biological sex and parental rights; progressive framing treats restrictions as discrimination, requiring biblical anthropology and Title IX history.",
+      "limits": "Advocacy organization letter; does not include district responses or DOE action status; policies described are alleged, not fully quoted; MSHSL policy history is summarized.",
+      "suggested_action": "candidate"
+    }
+  ]
+}
