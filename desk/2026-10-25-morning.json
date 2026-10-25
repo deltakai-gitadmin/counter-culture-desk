@@ -1,0 +1,65 @@
+[
+  {
+    "headline": "Israel presses West Bank army operation days before election after Hebron attack",
+    "source": "Associated Press (https://apnews.com/article/israel-west-bank-military-operation-election-5995f6958ff503686ad68a8d547daf4d)",
+    "date": "2026-10-24",
+    "claim_summary": "Israel is conducting arrests, demolitions, and displacements in the West Bank, especially Hebron, the day after two Palestinian gunmen killed two Israeli soldiers and wounded three others.",
+    "mission_relevance": "War and political claims in the Israel-Palestinian conflict; Muslim sources and left outlets often frame Israeli responses as collective punishment or aggression while downplaying the initiating attack and security context.",
+    "limits": "Palestinian casualty figures come from the Ramallah-based Health Ministry; full identities and intent of the gunmen are as stated by the IDF; does not establish long-term strategic outcomes or election impact.",
+    "suggested_action": "research"
+  },
+  {
+    "headline": "Israeli attacks kill four as famine risk looms in Gaza",
+    "source": "Al Jazeera (https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl)",
+    "date": "2026-10-22",
+    "claim_summary": "Israeli attacks killed four Palestinians including a child in 24 hours, bringing the post-ceasefire death toll to 1,538, while aid restrictions raise famine risks according to rights groups.",
+    "mission_relevance": "Priority Muslim source framing of the Gaza conflict as ongoing Israeli aggression and potential genocide despite a US-brokered ceasefire; typical of claims that will be researched and answered with primary military and casualty data.",
+    "limits": "Death and injury figures are from the Gaza Health Ministry (Hamas-run); no independent verification of civilian vs. combatant status or targeting; famine warning is from Euro-Med Human Rights Monitor, not a UN body in this report.",
+    "suggested_action": "candidate"
+  },
+  {
+    "headline": "Demuth, Klobuchar differ on abortion law but issue isn’t as top of mind this year",
+    "source": "MPR News (https://www.mprnews.org/story/2026/10/23/demuth-klobuchar-differ-on-abortion-law-but-issue-isnt-top-of-mind-election)",
+    "date": "2026-10-23",
+    "claim_summary": "Minnesota gubernatorial candidates Lisa Demuth (R) and Amy Klobuchar (D) both say they will not roll back the state’s abortion access law, though Demuth has past anti-abortion proposals and Klobuchar criticizes extreme views.",
+    "mission_relevance": "Local Minnesota abortion politics; both candidates treat broad abortion access as settled law while differing on prior positions, relevant to Christian ethics on the protection of unborn life.",
+    "limits": "Does not detail specific legislative proposals or court rulings beyond the 1995 Minnesota Supreme Court decision; campaign statements only.",
+    "suggested_action": "hold"
+  },
+  {
+    "headline": "The Multi-Million Dollar Trans Industry Is About To Increase Its Body Count",
+    "source": "The Daily Wire (https://www.dailywire.com/news/the-multi-million-dollar-trans-industry-is-about-to-increase-its-body-count)",
+    "date": "2026-10-24",
+    "claim_summary": "WPATH’s Mexico City conference on transgender surgeries for minors proceeds amid FTC lawsuits and federal investigations into false claims that such interventions are safe and effective.",
+    "mission_relevance": "Gender ideology and medical claims opposing biological reality and Christian ethics on the body and the protection of children; Daily Wire highlights profit and experimental nature of procedures.",
+    "limits": "Opinion piece citing ongoing lawsuits and a government report; does not present new primary clinical data or conference proceedings.",
+    "suggested_action": "research"
+  },
+  {
+    "headline": "Supreme Court Blocks Trump Administration Effort to Restrict Gender-Transition Treatments for Federal Inmates",
+    "source": "National Review (https://www.nationalreview.com/news/supreme-court-blocks-trump-administration-effort-to-restrict-gender-transition-treatments-for-federal-inmates/)",
+    "date": "2026-10-21",
+    "claim_summary": "The Supreme Court rejected the Trump administration’s emergency application to enforce a policy limiting hormone and surgical interventions for transgender-identifying federal inmates.",
+    "mission_relevance": "Legal and cultural conflict over gender ideology versus biological sex in public institutions; Christian Post and Daily Wire frame it as a setback for affirming biological reality.",
+    "limits": "Brief unsigned order; full merits not decided; lower-court injunction remains in place pending further litigation.",
+    "suggested_action": "hold"
+  },
+  {
+    "headline": "Confronting Pro-Palestine Protesters in NYC",
+    "source": "Nick Shirley Interviews (YouTube: https://www.youtube.com/watch?v=oO3BCU59wl8)",
+    "date": "2026-10-13",
+    "claim_summary": "Independent journalist Nick Shirley entered a large pro-Palestine protest in New York City and recorded heated exchanges with demonstrators about Israel and Gaza.",
+    "mission_relevance": "Independent social-media journalism capturing street-level claims from pro-Palestine activists; relevant to documenting framing of the Israel-Hamas war that often omits October 7 and security context.",
+    "limits": "Street interviews; selective clips; does not establish organizational leadership, funding, or majority views of participants.",
+    "suggested_action": "candidate"
+  },
+  {
+    "headline": "Missouri’s GOP Has a New Strategy to Ban Abortion—Attack Trans Kids",
+    "source": "Mother Jones (https://www.motherjones.com/politics/2026/10/missouri-gop-transgender-abortion-ban-amendment-3/)",
+    "date": "2026-10-24",
+    "claim_summary": "Missouri’s legislative Amendment 3 pairs an abortion restriction with a ban on gender-transition procedures for minors, which opponents call a deceptive strategy.",
+    "mission_relevance": "Left-leaning framing of pro-life and pro-biology ballot measures as attacks on women and transgender youth; relevant to how progressive outlets present Christian-ethics-aligned policies.",
+    "limits": "Advocacy framing; does not quote the full ballot language or provide polling on voter understanding of the combined measure.",
+    "suggested_action": "research"
+  }
+]
