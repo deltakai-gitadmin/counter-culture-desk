@@ -1,1 +1,105 @@
-PLACEHOLDER_JSON
+{
+  "date": "2026-10-29",
+  "type": "morning",
+  "items": [
+    {
+      "headline": "How the end of “Roe” is reshaping medical care",
+      "source": "The Washington Post / The Nation, https://www.washingtonpost.com/ripple/2026/10/28/how-end-roe-is-reshaping-medical-care/",
+      "date": "2026-10-28",
+      "claim_summary": "Politico reporter Alice Miranda Ollstein’s new book Side Effects argues that post-Dobbs abortion bans have eroded quality and availability of health care far beyond reproductive services.",
+      "mission_relevance": "Directly engages abortion ethics and claims that protecting unborn life harms broader medical care; raises awareness of selective framing of Dobbs consequences.",
+      "limits": "Book is advocacy reporting; does not establish that bans cause the claimed systemic erosion independent of other factors; anecdotal interviews predominate.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "When Idaho Banned Abortion, OB-GYNs Fled. The Doctors Who Stayed Are Cracking.",
+      "source": "The New York Times, https://www.nytimes.com/2026/10/20/magazine/idaho-abortion-ban-ob-gyns.html",
+      "date": "2026-10-20",
+      "claim_summary": "Idaho’s near-total abortion ban has driven more than a third of OB-GYNs to stop practicing obstetrics or leave the state, leaving maternity care scarce and dangerous.",
+      "mission_relevance": "Core abortion/war-on-life framing; challenges Christian ethic of protecting the unborn by claiming policy produces medical harm.",
+      "limits": "Cites JAMA study and state numbers but attributes outcomes primarily to the ban; does not control for other workforce or rural factors; individual anecdotes.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Thousands protest across Poland for access to free and legal abortions",
+      "source": "Al Jazeera, https://www.aljazeera.com/news/2026/10/23/thousands-protest-across-poland-for-access-to-free-and-legal-abortions",
+      "date": "2026-10-23",
+      "claim_summary": "Protests mark the sixth anniversary of Poland’s near-total abortion ban, with activists calling for free, legal abortion and criticizing limited government reforms.",
+      "mission_relevance": "Muslim-source coverage of European Catholic-country abortion politics; frames restrictive law as rights violation.",
+      "limits": "Reports protest numbers and government statements; does not independently verify scale or establish that liberalization is required by ethics or law.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "How have Democrats’ policies shifted since the last major US election?",
+      "source": "Al Jazeera, https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election",
+      "date": "2026-10-24",
+      "claim_summary": "Some Democratic midterm candidates are moderating on transgender rights while intensifying opposition to Israel’s “genocidal war on Gaza.”",
+      "mission_relevance": "Priority Muslim outlet frames Israel-Gaza as genocide and notes Democratic shifts on trans and war; typical source for contested political-ethical claims.",
+      "limits": "Uses “genocidal war” as settled fact; selective candidate examples; does not establish voter-driven causation or full party positions.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "In historic first, voters in five states will decide transgender youth rights",
+      "source": "The Washington Post, https://www.washingtonpost.com/nation/2026/10/27/historic-first-voters-five-states-will-decide-transgender-youth-rights/",
+      "date": "2026-10-27",
+      "claim_summary": "Five states have ballot measures to restrict transgender athletes in girls’ sports and gender-transition treatment for minors.",
+      "mission_relevance": "Directly contests gender ideology against biological sex reality and protection of girls; Christian ethics on creation order and child safeguarding.",
+      "limits": "Reports ballot facts and local scenes; framing emphasizes “rights” and security presence; does not adjudicate biological or medical evidence.",
+      "suggested_action": "candidate"
+    },
+    {
+      "headline": "Missouri’s GOP Has a New Strategy to Ban Abortion—Attack Trans Kids",
+      "source": "Mother Jones, https://www.motherjones.com/politics/2026/10/missouri-gop-transgender-abortion-ban-amendment-3/",
+      "date": "2026-10-24",
+      "claim_summary": "Missouri Amendment 3 pairs a constitutional abortion ban with language prohibiting gender-transition procedures for minors, which opponents call deceptive.",
+      "mission_relevance": "Left-leaning outlet treats protection of unborn and of minors from transition as coordinated attack; relevant to abortion and gender ethics.",
+      "limits": "Advocacy framing; does not establish voter confusion or that the linkage is illegitimate; medical claims about transition remain contested.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "More Than 900 People Have Faced Pregnancy Criminalization After Dobbs",
+      "source": "Jezebel, https://www.jezebel.com/more-than-900-people-have-faced-pregnancy-criminalization-after-dobbs",
+      "date": "2026-10-21",
+      "claim_summary": "Pregnancy Justice data show 902 people charged for pregnancy-related offenses since Dobbs, mostly substance use, with some miscarriage and stillbirth cases.",
+      "mission_relevance": "Progressive framing of fetal-personhood consequences as criminalization; intersects abortion, law, and Christian ethics of life.",
+      "limits": "Advocacy group data; majority are substance-use cases under existing child-endangerment statutes; does not prove Dobbs created new crimes.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Israeli forces kill 14 in Gaza as UN commission says genocide continues",
+      "source": "Middle East Eye, https://www.middleeasteye.net/news/israeli-forces-kill-14-gaza-un-commission-says-genocide-continues",
+      "date": "2026-10-27",
+      "claim_summary": "Palestinian health ministry reports 14 killed in two days; UN Independent International Commission of Inquiry says Israel continues genocidal acts despite ceasefire.",
+      "mission_relevance": "Priority Muslim/anti-Israel source advances genocide claim against Israel; core war and political-ethical contestation.",
+      "limits": "Relies on Gaza Health Ministry and UN commission (contested composition and methodology); does not establish intent or full context of ongoing hostilities.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Iran war updates: Tehran in ‘close contact’ with mediators on Hormuz plan",
+      "source": "Al Jazeera, https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us",
+      "date": "2026-10-27",
+      "claim_summary": "Ongoing US-Israel war on Iran continues with Hormuz mediation, Houthi attacks on Aden airport, Hezbollah rejection of disarmament, and US costs exceeding $47 billion.",
+      "mission_relevance": "Muslim-source coverage of multi-front war involving Iran, Houthis, Hezbollah; relevant to just-war ethics and anti-Christian actors.",
+      "limits": "Live-blog aggregation of claims from multiple parties; many battlefield assertions unverified; does not establish strategic outcomes.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "Feeding Our Future central organizer sentenced to 30 years; federal searches continue in Minnesota",
+      "source": "MPR News / Associated Press, https://www.mprnews.org/fraud-in-minnesota",
+      "date": "2026-10-28",
+      "claim_summary": "A major Feeding Our Future defendant received 30 years; federal agents executed searches at Minnesota childcare and social-service sites amid ongoing fraud probes tied in part to viral independent reporting.",
+      "mission_relevance": "Local Minnesota fraud involving public funds, with heavy Somali-community concentration in convictions; intersects honesty, stewardship, and political claims.",
+      "limits": "Sentencing is court fact; broader $9B estimates remain prosecutorial projections; community-wide characterizations contested; Nick Shirley video claims partially discounted by inspectors.",
+      "suggested_action": "candidate"
+    },
+    {
+      "headline": "Group says biology-based sports amendment advances in MSHSL process",
+      "source": "KTTC, https://www.kttc.com/2026/10/26/group-says-biology-based-sports-amendment-advances-mshsl-process/",
+      "date": "2026-10-26",
+      "claim_summary": "Make It Fair Minnesota reports that 11 member schools have advanced a proposed MSHSL bylaw change returning sports eligibility to biological sex.",
+      "mission_relevance": "Minnesota local contest over sex-based sports categories; protects female athletes against male advantage; Christian ethics of created sex.",
+      "limits": "Organization claim of threshold met; process still requires regional votes; does not yet change policy.",
+      "suggested_action": "candidate"
+    }
+  ]
+}
