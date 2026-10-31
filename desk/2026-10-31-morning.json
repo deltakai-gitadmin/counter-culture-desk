@@ -1,1 +1,59 @@
-PLACEHOLDER
+{
+  "date": "2026-10-31",
+  "items": [
+    {
+      "headline": "US court lifts ruling requiring Idaho to allow some abortions to protect women's health",
+      "source": "Reuters - https://www.reuters.com/legal/government/us-court-lifts-ruling-requiring-idaho-allow-some-abortions-protect-womens-health-2026-10-30/",
+      "date": "2026-10-30",
+      "claim_summary": "A 2-1 Ninth Circuit panel stayed a lower-court injunction, allowing Idaho to fully enforce its near-total abortion ban pending appeal, finding the doctor-plaintiff unlikely to establish a constitutional right to health-preserving abortions under Dobbs.",
+      "mission_relevance": "Directly engages post-Dobbs abortion law and claims of a constitutional health exception that would expand elective abortion under vague mental-health and health-risk standards, contrary to Christian ethics on the protection of unborn life.",
+      "limits": "The stay is not a final merits ruling; the underlying challenge continues. The decision does not address the separate St. Luke's emergency-care injunction that Idaho did not appeal. Media framing of 'women's health' does not establish specific clinical outcomes or quantify prevented deaths.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Make It Fair Minnesota says biology-based sports amendment advances with support from 11 school districts",
+      "source": "KTTC / Make It Fair MN - https://www.kttc.com/2026/10/26/group-says-biology-based-sports-amendment-advances-mshsl-process/ ; https://www.makeitfairmn.com/",
+      "date": "2026-10-26",
+      "claim_summary": "Eleven Minnesota school districts have submitted support sufficient to advance a proposed MSHSL bylaw amendment requiring students in sex-separated sports to compete according to biological sex at birth rather than gender identity.",
+      "mission_relevance": "Addresses Minnesota public-school policy that currently permits male-bodied athletes to compete in girls' sports, raising questions of fairness, safety, and the rejection of biological sex as a category—claims that conflict with Christian teaching on the created order and the protection of female spaces.",
+      "limits": "The amendment must still clear regional votes (by Feb. 15) and a two-thirds Representative Assembly vote; it does not automatically override state law. Supporters' claims about competitive impact rest on observed cases rather than a comprehensive statewide dataset published here. Opponents argue it may be unenforceable without legislative change.",
+      "suggested_action": "candidate"
+    },
+    {
+      "headline": "Klobuchar says Minnesota 'won't go back' on abortion as Demuth calls it settled law amid fraud focus",
+      "source": "Minnesota Star Tribune - https://www.startribune.com/hot-dish-amy-klobuchar-abortion-lisa-demuth-michele-tafoya-suburbs-voters/601905407 ; MPR News - https://www.mprnews.org/story/2026/10/23/demuth-klobuchar-differ-on-abortion-law-but-issue-isnt-top-of-mind-election",
+      "date": "2026-10-29",
+      "claim_summary": "In the final weeks of the Minnesota gubernatorial race, Amy Klobuchar pledged not to roll back the state's permissive abortion statutes, while Lisa Demuth described abortion access as settled law under a 1995 state Supreme Court ruling and focused attacks on fraud in state programs.",
+      "mission_relevance": "Minnesota's abortion regime remains one of the most expansive in the nation; the race tests whether voters will treat the issue as settled or continue to prioritize fraud, affordability, and public-safety claims that Democrats and progressives have framed as distractions.",
+      "limits": "Polling shows abortion is not the top voter priority this cycle. Demuth's past heartbeat-bill sponsorship is public record; her current 'settled law' stance is a campaign characterization, not a legislative commitment. No new statute has been enacted in this election cycle.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "Israeli strikes hit Gaza as Health Ministry urges Rafah opening; Al Jazeera reports ongoing killings since ceasefire",
+      "source": "Al Jazeera - https://www.aljazeera.com/news/2026/10/29/israeli-strikes-hit-gaza-as-health-ministry-urges-rafah-opening",
+      "date": "2026-10-29",
+      "claim_summary": "Al Jazeera, citing Gaza's Health Ministry, reports continued Israeli strikes killing and wounding Palestinians more than a year after a ceasefire, with cumulative post-ceasefire deaths exceeding 1,500 and total war deaths listed near 74,500, while framing the conflict as a 'genocidal war.'",
+      "mission_relevance": "Muslim-source coverage of the Israel-Gaza conflict consistently presents high casualty figures from Hamas-run authorities and omits or minimizes Israeli security justifications, shaping narratives that equate defensive military action with moral equivalence or aggression against Christian and Jewish historical claims in the region.",
+      "limits": "Casualty figures originate from the Gaza Health Ministry (Hamas-affiliated) and are not independently verified in the reporting. 'Genocidal' is a legal and rhetorical characterization, not a finding established by the article. Israeli statements on targeting militants are not detailed here. The ceasefire status and 'Yellow Line' control are contested.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Trump awards Nick Shirley $10,000 under new fraud whistleblower program for Minnesota daycare video",
+      "source": "Star Tribune - https://www.startribune.com/trump-nick-shirley-fraud-check/601903258 ; Deseret News - https://www.deseret.com/politics/2026/10/20/president-trump-awards-utahn-nick-shirley-ten-thousand-dollar-check-under-new-anti-fraud-reward-program/",
+      "date": "2026-10-20",
+      "claim_summary": "President Trump presented independent journalist Nick Shirley with a $10,000 check as the first payout of a new Fraud Whistleblower Incentive Program, citing Shirley's December 2025 video alleging large-scale fraud at Minnesota childcare centers operated by members of the Somali community.",
+      "mission_relevance": "Independent reporting on alleged public-funds fraud in Minnesota programs has driven federal attention; the episode highlights tensions between progressive framing of immigrant communities and documented criminal cases (e.g., Feeding Our Future) that raise questions of stewardship and truth-telling in civic administration.",
+      "limits": "Shirley's video alleged over $100 million in fraud; subsequent state visits found some centers operating. Specific charges linked to the video sites are limited and not fully adjudicated in the award announcement. The $10,000 is a program payout, not a court judgment of total loss.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "In historic first, voters in five states will decide transgender youth rights",
+      "source": "The Washington Post - https://www.washingtonpost.com/nation/2026/10/27/historic-first-voters-five-states-will-decide-transgender-youth-rights/",
+      "date": "2026-10-27",
+      "claim_summary": "Voters in five states face ballot measures that would restrict transgender athletes in girls' sports and gender-transition treatments for minors, marking the first time such youth-focused measures appear on multiple state ballots simultaneously.",
+      "mission_relevance": "Ballot initiatives directly contest the medicalization and social transition of minors and the erasure of sex-based categories in sports and facilities—practices that progressive outlets have treated as settled rights but that conflict with Christian ethics on the body, childhood, and parental authority.",
+      "limits": "The article reports the existence of the measures and local reactions; it does not adjudicate clinical evidence on outcomes of youth medical transition. Specific ballot language and projected vote margins vary by state and are not fully detailed.",
+      "suggested_action": "candidate"
+    }
+  ]
+}
