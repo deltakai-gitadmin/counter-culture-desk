@@ -1,1 +1,59 @@
-PLACEHOLDER
+{
+  "date": "2026-11-02",
+  "items": [
+    {
+      "headline": "Life Is on the Ballot This November: Abortion Measures in Four States",
+      "source": "National Review https://www.nationalreview.com/2026/10/life-is-on-the-ballot-this-november/",
+      "date": "2026-10-19",
+      "claim_summary": "Voters in Idaho, Missouri, Nevada, and Virginia will decide ballot measures on abortion; Missouri's would reverse a 2024 expansion and ban gender procedures for minors, while others would codify broader rights including late-term exceptions.",
+      "mission_relevance": "Directly engages abortion and sex-ethics claims against Christian teaching on the sanctity of unborn life and created sexual order; progressive sources frame expansions as rights while pro-life sources highlight limits on parental involvement and viability.",
+      "limits": "Opinion analysis of ballot language; does not establish medical consensus on mental-health exceptions or project post-passage practice; polling and outcomes not final.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Missouri\u2019s GOP Has a New Strategy to Ban Abortion\u2014Attack Trans Kids",
+      "source": "Mother Jones https://www.motherjones.com/politics/2026/10/missouri-gop-transgender-abortion-ban-amendment-3/",
+      "date": "2026-10-24",
+      "claim_summary": "Missouri Amendment 3 would repeal the 2024 constitutional abortion right through fetal viability and constitutionally prohibit gender transition procedures for minors, which the source frames as a deceptive tactic to confuse voters.",
+      "mission_relevance": "Left-leaning outlet framing that ties abortion restrictions to opposition of gender-affirming care for minors; touches Christian ethics on the unborn, sex, and body; existing state law already restricts such procedures until 2027 for hormones.",
+      "limits": "Advocacy framing and selection of activist quotes; does not prove voter confusion is decisive or that the gender provision is novel rather than concurrent; ballot language is public.",
+      "suggested_action": "candidate"
+    },
+    {
+      "headline": "Israeli strikes kill four people in Gaza, medics say",
+      "source": "Reuters https://www.reuters.com/world/middle-east/israeli-strikes-kill-three-people-gaza-medics-say-2026-11-02/",
+      "date": "2026-11-02",
+      "claim_summary": "Israeli strikes killed at least four Palestinians and wounded others in Gaza on Monday according to territory health officials; IDF said it targeted militants in violation of a year-old ceasefire.",
+      "mission_relevance": "Priority coverage of ongoing Israel-Gaza conflict post-ceasefire, relevant to evaluating claims of perpetual war, civilian casualties, and just-war considerations against Christian ethics of peace and truth.",
+      "limits": "Casualty figures from Gaza health officials under Hamas control; IDF claims of targeting militants not independently verified in the report; does not establish total strategic intent or cumulative figures since October 2025.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "Hebron governor says Israeli forces withdraw from city after 10-day siege",
+      "source": "Al Jazeera https://www.aljazeera.com/news/2026/11/2/hebron-governor-says-israeli-forces-withdraw-from-city-after-10-day-siege",
+      "date": "2026-11-02",
+      "claim_summary": "Israeli forces withdrew from Hebron after a 10-day siege imposed following a shooting that killed two Israeli soldiers; Palestinian officials report hundreds of families displaced and economic disruption.",
+      "mission_relevance": "Muslim-source framing of Israeli operations in the West Bank as siege and displacement following an attack on soldiers; relevant to assessing claims of collective punishment versus security response in the conflict.",
+      "limits": "Relies on Palestinian governor and mayor statements and Wafa reporting; does not independently confirm demolition numbers, economic losses, or the precise chain of the initial attack; Israeli military statements not detailed in the piece.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Tafoya and Flanagan clash over meaning of \u2018pro-choice\u2019",
+      "source": "Star Tribune https://www.startribune.com/tafoya-and-flanagan-clash-over-what-it-means-to-be-pro-choice/601896427",
+      "date": "2026-10-18",
+      "claim_summary": "In Minnesota\u2019s Senate race, Republican Michele Tafoya calls herself pro-choice up to 12 weeks while Democrat Peggy Flanagan defends the state\u2019s permissive post-Roe laws and rejects the label for her opponent.",
+      "mission_relevance": "Local Minnesota coverage of abortion positions in a key race; relevant to evaluating claims about \u2018pro-choice\u2019 framing against Christian ethics of life and the state\u2019s lack of gestational limits.",
+      "limits": "Campaign statements and debate quotes; does not establish voter priorities or project legislative outcomes; approximately 84% of Minnesota abortions occur within 12 weeks per cited data.",
+      "suggested_action": "candidate"
+    },
+    {
+      "headline": "Demuth, Klobuchar differ on abortion law but issue isn\u2019t as top of mind this year",
+      "source": "MPR News https://www.mprnews.org/story/2026/10/23/demuth-klobuchar-differ-on-abortion-law-but-issue-isnt-top-of-mind-election",
+      "date": "2026-10-23",
+      "claim_summary": "Minnesota governor candidates Amy Klobuchar and Lisa Demuth both say they will not roll back the state\u2019s abortion-access laws, though Klobuchar criticizes Demuth\u2019s prior heartbeat-bill sponsorship and Demuth calls the issue settled.",
+      "mission_relevance": "Local reporting on abortion in the governor\u2019s race amid Minnesota\u2019s status as one of the most permissive states; relevant to assessing whether \u2018settled law\u2019 claims hold against Christian teaching on life.",
+      "limits": "Candidate debate statements; does not establish that the issue is low priority for all voters or detail enforcement of 2023 laws; Demuth\u2019s prior bill did not pass.",
+      "suggested_action": "hold"
+    }
+  ]
+}
