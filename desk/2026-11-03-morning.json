@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-03",
+  "items": [
+    {
+      "headline": "US court lifts ruling requiring Idaho to allow some abortions to protect women's health",
+      "source": "Reuters https://www.reuters.com/legal/government/us-court-lifts-ruling-requiring-idaho-allow-some-abortions-protect-womens-health-2026-10-30/",
+      "date": "2026-10-30",
+      "claim_summary": "A 2-1 Ninth Circuit panel paused a lower-court order and allowed Idaho to enforce its near-total abortion ban while the appeal continues, finding no constitutional right to a health-saving abortion under Dobbs.",
+      "mission_relevance": "Directly engages post-Roe state enforcement of abortion limits against claims of a constitutional health exception; relevant to Christian ethics of protecting unborn life versus progressive medicalization of elective abortion.",
+      "limits": "Stay pending appeal only; does not resolve the merits or address specific clinical scenarios; dissent noted risks to maternal health; Idaho voters also face a related ballot measure today.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Missouri Amendment 3 would repeal 2024 abortion right and ban gender transition procedures for minors",
+      "source": "Ballotpedia / ABC News / Missouri SOS https://ballotpedia.org/Missouri_Amendment_3,_Prohibit_Abortion_and_Gender_Transition_Procedures_for_Minors_Amendment_(2026)",
+      "date": "2026-11-03",
+      "claim_summary": "Missouri voters decide today whether to repeal the 2024 constitutional right to reproductive freedom (abortion through viability) and replace it with a near-total ban (exceptions for emergency, anomaly, rape/incest to 12 weeks) while also constitutionally prohibiting gender-transition surgeries, hormones, and blockers for minors.",
+      "mission_relevance": "Core mission item on abortion and sex/gender claims opposed to Christian ethics of the sanctity of unborn life and created sexual order; progressive sources frame the pairing as deceptive while pro-life sources treat both as protecting children.",
+      "limits": "Outcome not yet known; ballot title language is public and does not itself prove voter confusion or medical consensus; does not establish future legislative practice if passed.",
+      "suggested_action": "candidate"
+    },
+    {
+      "headline": "Al Jazeera frames Gaza war as ongoing genocide and ethnic cleansing under ceasefire",
+      "source": "Al Jazeera https://www.aljazeera.com/news/2026/10/30/ethnic-cleansing-fears-rise-as-israel-squeezes-space-in-gaza-un",
+      "date": "2026-10-30",
+      "claim_summary": "Al Jazeera and related coverage cite Gaza health authorities and UN statements claiming more than 74,000 killed since October 2023, over 1,400 since the October 2025 ceasefire, and ongoing displacement that raises ethnic-cleansing concerns.",
+      "mission_relevance": "Priority Muslim-source framing of the Israel-Gaza conflict as genocide and ethnic cleansing; relevant to evaluating war claims, just-war ethics, and truth-telling against Christian standards of honest reporting and peace.",
+      "limits": "Casualty totals rely on Gaza Ministry of Health under Hamas control and are contested; 'genocide' and 'ethnic cleansing' are advocacy labels not established as legal findings in the pieces; Israeli military claims of targeting militants and ceasefire violations not fully detailed.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Al Jazeera reports Trump 'leans into Islamophobia' while attacking El-Sayed and Omar",
+      "source": "Al Jazeera https://www.aljazeera.com/news/2026/11/2/trump-leans-into-islamophobia-and-conspiracy-in-last-ditch-campaign-rallies",
+      "date": "2026-11-02",
+      "claim_summary": "Al Jazeera characterizes Trump's midterm rally remarks calling Abdul El-Sayed a 'jihadist' and repeating claims about Ilhan Omar's marriage as Islamophobia and conspiracy.",
+      "mission_relevance": "Priority Muslim-source framing of U.S. political speech on Islam, immigration, and Minnesota's Ilhan Omar; relevant to assessing claims about Christian-Muslim relations, truth of personal allegations, and political rhetoric.",
+      "limits": "Opinionated framing of reported speech; does not independently verify or refute the underlying Omar marriage allegation or El-Sayed's affiliations; Trump's remarks are public but interpretation is contested.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "Klobuchar says Minnesota 'won't go back' on abortion",
+      "source": "Star Tribune https://www.startribune.com/hot-dish-amy-klobuchar-abortion-lisa-demuth-michele-tafoya-suburbs-voters/601905407",
+      "date": "2026-10-29",
+      "claim_summary": "Sen. Amy Klobuchar, running for governor, stated she would not seek to change Minnesota's post-Roe laws that make the state among the most permissive for abortion, while Republicans highlight her opponent's prior heartbeat-bill support.",
+      "mission_relevance": "Local Minnesota coverage of abortion positions in the gubernatorial race; relevant to evaluating progressive defense of unrestricted abortion against Christian ethics of life and the state's lack of gestational limits.",
+      "limits": "Campaign rhetoric; does not establish polling majorities on specific limits or future legislative outcomes; Minnesota already has no gestational restriction.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "Nick Shirley (independent YouTuber) awarded for Minnesota daycare fraud video",
+      "source": "Star Tribune / Deseret News / Nick Shirley (YouTube/X) https://www.startribune.com/trump-nick-shirley-fraud-check/601903258",
+      "date": "2026-10-21",
+      "claim_summary": "Independent reporter Nick Shirley received a $10,000 award from the Trump administration's new fraud tip program for a viral video alleging Somali-run Minnesota daycares collected public funds without serving children.",
+      "mission_relevance": "Named independent journalist leading a Minnesota story on alleged public-funds fraud; relevant to civic integrity, left-leaning governance claims, and evaluating evidence of waste versus progressive framing of targeting immigrant communities.",
+      "limits": "Core dollar claims remain contested and partially unsubstantiated by official audits; some related fraud cases have produced charges and guilty pleas, but the video's specific $100M+ figure is not independently confirmed; harassment of businesses reported after the video.",
+      "suggested_action": "research"
+    }
+  ]
+}
