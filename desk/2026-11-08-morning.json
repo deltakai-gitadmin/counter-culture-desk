@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-08",
+  "type": "morning",
+  "items": [
+    {
+      "headline": "Abortion rights weren’t the story of the midterms. They still won.",
+      "source": "Vox (https://www.vox.com/policy/509116/abortion-reproductive-rights-midterms-democrats-republicans-pregnancy)",
+      "date": "2026-11-04",
+      "claim_summary": "Voters in Virginia, Missouri, and Nevada backed or preserved constitutional abortion protections in the 2026 midterms, continuing a post-Roe pattern of ballot-measure success for abortion-rights advocates.",
+      "mission_relevance": "Directly advances the expansion or entrenchment of abortion access, framed by progressive outlets as popular victories that protect 'reproductive freedom' against pro-life efforts.",
+      "limits": "Does not establish the moral or biblical status of the unborn; relies on advocacy framing and does not quantify post-viability or late-term outcomes under the new language.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Missouri Defeated an Abortion Ban at the Ballot Box—Again",
+      "source": "Mother Jones (https://www.motherjones.com/politics/2026/11/missouri-defeated-an-abortion-ban-at-the-ballot-box-again/)",
+      "date": "2026-11-03",
+      "claim_summary": "Missouri voters rejected Amendment 3, which would have repealed the 2024 constitutional right to abortion and banned gender-affirming care for minors, preserving broader access.",
+      "mission_relevance": "Illustrates progressive strategy of pairing abortion expansion with transgender medical interventions for minors, opposing Christian ethics on both the sanctity of life and biological sex.",
+      "limits": "Source is advocacy-oriented; does not detail medical risks of gender interventions or long-term abortion data; vote percentages are as reported.",
+      "suggested_action": "candidate"
+    },
+    {
+      "headline": "Voters in Missouri, Virginia Back Abortion in Blow to Pro-Lifers",
+      "source": "National Review (https://www.nationalreview.com/news/virginia-voters-enshrine-abortion-in-state-constitution/)",
+      "date": "2026-11-03",
+      "claim_summary": "Virginia voters enshrined a broad right to reproductive freedom including late-term exceptions based on mental health, while Missouri rejected a measure limiting abortion and minor gender procedures.",
+      "mission_relevance": "Documents concrete political setbacks for pro-life and sex-realist positions in state constitutions, with pro-life leaders citing Republican reluctance to defend the issue.",
+      "limits": "Does not resolve interpretive disputes over 'health' exceptions; does not establish future legislative capacity to regulate.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Four people, including a child, killed in Israeli attacks on Gaza",
+      "source": "Al Jazeera (https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza)",
+      "date": "2026-11-05",
+      "claim_summary": "Gaza health officials report ongoing Israeli strikes killing Palestinians, including children, with the cumulative death toll since October 2023 exceeding 74,000 and over 1,600 since the October 2025 ceasefire.",
+      "mission_relevance": "Primary Muslim-source framing of the Israel-Hamas conflict as continuous 'genocidal war' by Israel, requiring fact-checking against Israeli military claims, Hamas use of civilian areas, and October 7 origins.",
+      "limits": "Relies on Gaza Health Ministry figures controlled by Hamas; does not independently verify combatant vs. civilian status or Israeli targeting claims; anonymous hospital sources.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Minnesota high school leaders weigh transgender proposal",
+      "source": "Star Tribune (https://varsity.startribune.com/high-school-league-weighs-proposal-to-limit-transgender-athletes-eligibility/601899152)",
+      "date": "2026-10-08",
+      "claim_summary": "MSHSL board discussed a potential bylaw change restricting athletes to teams matching biological sex at birth, amid ongoing federal Title IX pressure and litigation.",
+      "mission_relevance": "Local Minnesota flashpoint on biological sex in girls’ sports, pitting fairness and safety for female athletes against gender-identity policies that conflict with Christian teaching on creation.",
+      "limits": "Discussion stage only; no vote taken; does not quantify number of transgender athletes or injury data.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "Evangelical leader says election defeat could be divine 'chastisement' for GOP",
+      "source": "Christian Post (https://www.christianpost.com/news/election-defeat-could-be-chastisement-for-gop.html)",
+      "date": "2026-11-05",
+      "claim_summary": "Tony Perkins of the Family Research Council attributes Republican midterm losses in part to rising abortion rates and the party's softening of pro-life platform commitments.",
+      "mission_relevance": "Christian voice linking political outcomes to national abortion policy, calling for fidelity to biblical ethics on the unborn.",
+      "limits": "Opinion of one leader; does not establish causal divine judgment or quantify policy effects on abortion numbers.",
+      "suggested_action": "hold"
+    }
+  ]
+}
