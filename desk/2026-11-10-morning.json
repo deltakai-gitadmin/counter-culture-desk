@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "headline": "Israeli fire kills father and son in Gaza, medics say",
+      "source": "Reuters - https://www.reuters.com/world/middle-east/israeli-fire-kills-father-son-gaza-medics-say-2026-11-10/",
+      "date": "2026-11-10",
+      "claim_summary": "Local health officials report Israeli forces killed at least three Palestinians including a father and his 13-year-old son in Gaza strikes and gunfire.",
+      "mission_relevance": "Continues the Israel-Hamas conflict reporting; Al Jazeera and similar sources frame ongoing deaths as Israeli aggression or genocide despite ceasefire, requiring biblical/historical fact-check on just war, Hamas responsibility for Oct 7, and civilian protection claims.",
+      "limits": "Based on local Gaza health officials; Israeli military did not immediately comment; does not establish intent, full context of targeting, or Hamas military activity.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "UNICEF says Israel blocks Gaza basin repairs, warns of flood risk",
+      "source": "Reuters - https://www.reuters.com/business/environment/unicef-says-israel-blocks-gaza-basin-repairs-warns-flood-risk-2026-11-10/",
+      "date": "2026-11-10",
+      "claim_summary": "UNICEF states Israel rejected equipment for repairing a contaminated stormwater basin in Gaza City, risking overflow, flooding, and disease amid tent camps.",
+      "mission_relevance": "Humanitarian claims used in pro-Palestinian/Muslim-source narratives of deliberate Israeli deprivation; intersects with war ethics, aid restrictions post-Hamas attack, and scriptural views on justice and mercy.",
+      "limits": "UNICEF/COGAT statements; does not detail full security reasons for rejection, Hamas diversion history, or complete aid flow data.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Palestine Weekly: West Bank on fire \u2013 and Gaza\u2019s tents under water",
+      "source": "Al Jazeera - https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under",
+      "date": "2026-11-10",
+      "claim_summary": "Al Jazeera reports floods killing at least five in Gaza tents, ongoing Israeli strikes since ceasefire (toll 1,613), and West Bank operations, calling the war genocidal.",
+      "mission_relevance": "Priority Muslim/Islamist-leaning source presenting selective casualty counts and 'genocide' framing without equivalent weight to Oct 7 or Hamas governance; central to mission of countering anti-Christian/anti-Israel historical distortions.",
+      "limits": "Gaza Government Media Office and Health Ministry figures; contested casualty methodology; does not establish genocide under legal definition or full ceasefire compliance by all parties.",
+      "suggested_action": "candidate"
+    },
+    {
+      "headline": "Idaho voters reject abortion ballot measure, preserving state ban",
+      "source": "NBC News - https://www.nbcnews.com/politics/2026-election/idaho-abortion-ballot-measure-reject-voters-midterms-rcna603395",
+      "date": "2026-11-04",
+      "claim_summary": "Idaho voters rejected Proposition 1 that would have codified abortion rights up to fetal viability, preserving the post-Dobbs ban.",
+      "mission_relevance": "Abortion ballot outcomes test popular will against Christian ethics on the sanctity of unborn life; mainstream coverage often frames as restriction vs rights without biblical or developmental science grounding.",
+      "limits": "NBC projection of results; does not address fetal viability science, late-term data, or long-term demographic effects.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "Missouri voters reject ballot measure that would have banned abortion",
+      "source": "NBC News - https://www.nbcnews.com/politics/2026-election/missouri-voters-reject-ballot-measure-ban-abortion-midterms-rcna603392",
+      "date": "2026-11-04",
+      "claim_summary": "Missouri rejected Amendment 3, which sought to ban most abortions and prohibit gender-affirming surgery for minors, preserving 2024 constitutional abortion right.",
+      "mission_relevance": "Links abortion access to transgender medicalization of minors in progressive framing (Mother Jones); relevant to ethics of elective procedures on children and unborn.",
+      "limits": "Does not establish medical evidence for gender procedures on minors or long-term abortion outcomes; polling and results contested in margins.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Abortion Laws Treat \"Viability\" as a Bright Line. It Isn\u2019t.",
+      "source": "Mother Jones - https://www.motherjones.com/politics/2026/11/fetal-viability-abortion-laws-repro-rights-state-amendments/",
+      "date": "2026-11-09",
+      "claim_summary": "Mother Jones argues fetal viability is not a clear legal or medical bright line, leaving vulnerable patients behind in state abortion amendments.",
+      "mission_relevance": "Progressive/pro-abortion outlet challenging viability standard used in some ballot measures; opens debate on when life begins, developmental biology, and Christian teaching vs secular 'reproductive freedom.'",
+      "limits": "Opinion/advocacy framing; does not present full scientific consensus on viability or alternatives like heartbeat or fertilization.",
+      "suggested_action": "candidate"
+    },
+    {
+      "headline": "How Operation Metro Surge helped fuel Minnesota's Democratic sweep",
+      "source": "Star Tribune - https://www.startribune.com/operation-metro-surge-minnesota-election/601911230/",
+      "date": "2026-11-07",
+      "claim_summary": "Star Tribune reports federal immigration crackdown in Minnesota energized DFL voters, contributing to statewide Democratic wins including Klobuchar as governor.",
+      "mission_relevance": "Local Minnesota politics intersecting immigration enforcement, fraud concerns (linked to prior independent reporting), and cultural shifts; relevant to rule of law, community ethics, and political claims.",
+      "limits": "Post-election analysis; does not quantify exact voter motivation or address underlying fraud investigations independently verified.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "Nick Shirley on midterm results and Minnesota fraud",
+      "source": "Independent (Nick Shirley, YouTube/X) via Objectivist report - https://www.objectivist.co/2026/11/nick-shirely-delivers-an-america-first-reality-check-in-wake-of-midterm-disaster-watch/",
+      "date": "2026-11-06",
+      "claim_summary": "Independent journalist Nick Shirley comments that Republican messaging failed on affordability and that Minnesota voters elected a daycare owner with violations amid fraud exposure.",
+      "mission_relevance": "Named independent reporter leading Minnesota fraud stories involving Somali-run programs; ties to mission on accountability, cultural integration, and truth vs narrative in local politics.",
+      "limits": "Commentary; specific claims about elected official's daycare require primary verification; not a full investigative report.",
+      "suggested_action": "research"
+    }
+  ]
+}
