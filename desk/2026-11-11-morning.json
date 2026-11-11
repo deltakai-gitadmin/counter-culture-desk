@@ -1,0 +1,65 @@
+[
+  {
+    "headline": "Justice Department joins Texas lawsuit against Planned Parenthood over Medicaid billing",
+    "source": "Reuters - https://www.reuters.com/legal/government/justice-department-joins-texas-lawsuit-against-planned-parenthood-2026-11-07/",
+    "date": "2026-11-07",
+    "claim_summary": "The U.S. Justice Department notified a federal court it plans to intervene in a 2021 Texas lawsuit alleging Planned Parenthood improperly collected Medicaid reimbursements after state terminations, seeking roughly $1.8 billion in repayments and penalties.",
+    "mission_relevance": "Directly concerns public funding of the largest U.S. abortion provider and ongoing efforts to enforce existing restrictions on taxpayer support for abortion-related services.",
+    "limits": "The filing is a notice of intent to intervene; no ruling on the merits has been issued. Planned Parenthood contests the fraud allegations and states billing during court stays was lawful.",
+    "suggested_action": "research"
+  },
+  {
+    "headline": "Voters in Virginia and Nevada enshrine abortion rights; Missouri rejects repeal attempt; Idaho rejects expansion",
+    "source": "KFF - https://www.kff.org/womens-health-policy/the-status-of-abortion-related-state-ballot-initiatives-since-dobbs/",
+    "date": "2026-11-04",
+    "claim_summary": "In the November 2026 midterms, Virginia and Nevada voters approved constitutional amendments protecting abortion access (Virginia through viability with health exceptions; Nevada through 24 weeks), Missouri voters rejected an amendment that would have repealed the 2024 reproductive-freedom amendment and restricted minor gender procedures, and Idaho voters rejected a measure that would have legalized abortion to fetal viability.",
+    "mission_relevance": "Ballot outcomes expand or preserve state constitutional protections for abortion and, in one case, couple the issue with minor gender procedures, shaping the legal landscape against which Christian ethics on the unborn and sex are contested.",
+    "limits": "Results reflect voter majorities in those states; they do not establish a national consensus or resolve medical, ethical, or constitutional arguments about viability, health exceptions, or gender procedures.",
+    "suggested_action": "hold"
+  },
+  {
+    "headline": "Judge signals Minnesota conversion-therapy ban faces uphill battle after Supreme Court speech ruling",
+    "source": "Courthouse News Service - https://www.courthousenews.com/judge-signals-uphill-battle-for-minnesotas-conversion-therapy-ban",
+    "date": "2026-11-09",
+    "claim_summary": "A federal judge indicated that Minnesota’s 2023 ban on conversion therapy for minors and vulnerable adults, including talk therapy aimed at changing gender identity or sexual orientation, is likely to face strict scrutiny following the U.S. Supreme Court’s Chiles v. Salazar decision treating such counseling as protected speech.",
+    "mission_relevance": "Minnesota statute restricts Christian and faith-based counselors from offering talk therapy that aligns with traditional sexual ethics; the case tests whether viewpoint-based speech restrictions survive First Amendment scrutiny.",
+    "limits": "Hearing is preliminary; no final ruling. The statute permits exploratory discussions of gender, orientation, or religion; plaintiff counselors argue the ban is viewpoint-discriminatory.",
+    "suggested_action": "research"
+  },
+  {
+    "headline": "Al Jazeera reports Israeli strikes kill father, son and others in Gaza, citing health ministry genocide framing",
+    "source": "Al Jazeera - https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son",
+    "date": "2026-11-10",
+    "claim_summary": "Al Jazeera reports that Israeli forces killed at least eight Palestinians, including a father and his 13-year-old son, in Gaza strikes, and states that more than 74,000 people have been killed in what it calls Israel’s “genocidal war” since October 7, 2023, with over 1,600 deaths since a 2025 ceasefire.",
+    "mission_relevance": "Muslim-source coverage of the Israel-Hamas conflict that consistently frames Israeli actions as genocide while relying on Hamas-run health-ministry casualty figures, a recurring pattern of selective sourcing and language that obscures Hamas’s October 7 role and continuing military activity.",
+    "limits": "Casualty totals and “genocide” characterization originate with the Hamas-controlled Gaza Health Ministry and Al Jazeera’s editorial framing; independent verification of combatant versus civilian status and of specific strike targets is not provided. Israeli statements that strikes targeted terror operatives are not reflected.",
+    "suggested_action": "candidate"
+  },
+  {
+    "headline": "Mother Jones calls Democratic midterm gains a “sea change” for reproductive rights",
+    "source": "Mother Jones - https://www.motherjones.com/politics/2026/11/the-democratic-tsunami-is-a-sea-change-for-reproductive-rights/",
+    "date": "2026-11-11",
+    "claim_summary": "Mother Jones reports that Democratic control of Congress, new state trifectas, and ballot successes constitute a sea change that will reshape the national abortion-rights landscape, citing incoming officials’ pledges to expand Medicaid and repeal remaining restrictions.",
+    "mission_relevance": "Progressive outlet frames electoral results as irreversible expansion of abortion access and links the issue to broader identity and health-care claims, illustrating the political and rhetorical strategy opposing limits grounded in Christian ethics of life.",
+    "limits": "Analysis is advocacy-oriented; it does not establish that legislative majorities will successfully enact specific federal or state changes, nor does it address countervailing legal, medical, or public-opinion constraints.",
+    "suggested_action": "hold"
+  },
+  {
+    "headline": "Transgender teen sues Essentia Health for ending gender-affirming care for minors",
+    "source": "Star Tribune - https://www.startribune.com/transgender-teen-sues-essentia-health/601906973",
+    "date": "2026-10-30",
+    "claim_summary": "A 16-year-old and parent allege that Duluth-based Essentia Health violated the Minnesota Human Rights Act by discontinuing the minor’s puberty blockers and hormones after the system suspended gender-health services for adolescents in response to federal funding threats.",
+    "mission_relevance": "Minnesota case tests state “trans refuge” policy and human-rights claims against a provider’s decision to stop medical interventions on minors that alter secondary sex characteristics, a practice contested on scientific, ethical, and Christian anthropological grounds.",
+    "limits": "Lawsuit is pending; Essentia’s stated reason was federal funding risk. Claims of suicide-risk reduction rest on the plaintiff’s complaint and are not independently verified in the reporting.",
+    "suggested_action": "research"
+  },
+  {
+    "headline": "Federal judge expands injunction blocking New York from censoring abortion-pill-reversal information",
+    "source": "Christian Post - https://www.christianpost.com/news/judge-expands-order-stopping-ny-from-censoring-pro-life-groups.html",
+    "date": "2026-11-10",
+    "claim_summary": "A federal judge expanded a preliminary injunction preventing New York Attorney General Letitia James from enforcing restrictions that would stop pro-life groups from informing women about progesterone-based abortion-pill reversal.",
+    "mission_relevance": "Protects the ability of pregnancy-resource centers and pro-life organizations to share information about a medical option that can reverse chemical abortion, directly relevant to efforts to offer alternatives grounded in protection of unborn life.",
+    "limits": "Injunction is preliminary and limited to the parties and NIFLA members; the underlying scientific efficacy and safety of abortion-pill reversal remain contested in medical literature and are not resolved by the court order.",
+    "suggested_action": "hold"
+  }
+]
