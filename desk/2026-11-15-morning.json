@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "headline": "Justice Department joins Texas lawsuit accusing Planned Parenthood of Medicaid fraud",
+      "source": "Reuters https://www.reuters.com/legal/government/justice-department-joins-texas-lawsuit-against-planned-parenthood-2026-11-07/",
+      "date": "2026-11-07",
+      "claim_summary": "DOJ notified court it plans to intervene in a multi-year False Claims Act suit seeking over $1.8 billion from Planned Parenthood over alleged continued Medicaid billing after state terminations.",
+      "mission_relevance": "Directly concerns abortion-provider funding and accountability; tests claims that major abortion organizations properly handle public funds versus allegations of improper retention.",
+      "limits": "Allegations unproven at trial; Planned Parenthood contests liability and says a loss could force Texas closures; case scheduled for possible April 2027 trial before Judge Kacsmaryk.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Voters in Nevada, Virginia, and Missouri protect or preserve abortion access; Idaho rejects expansion",
+      "source": "Associated Press https://apnews.com/article/voters-back-abortion-rights-and-reject-trumps-redistricting-in-state-ballot-measures",
+      "date": "2026-11-04",
+      "claim_summary": "Nevada and Virginia enshrined constitutional abortion rights; Missouri voters rejected a measure that would have repealed prior protections and added minor gender-care limits; Idaho rejected a viability-level expansion of its ban.",
+      "mission_relevance": "Shows continued state-level expansion or preservation of abortion access framed as reproductive freedom, against biblical and historical Christian teaching on the protection of unborn life.",
+      "limits": "Exact margins and long-term legal effects still subject to litigation and implementation; sources do not establish that these outcomes reverse all prior restrictions or that turnout alone drove results.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "Al Jazeera reports Israeli strike kills Hamas commander amid continued post-ceasefire Gaza casualties",
+      "source": "Al Jazeera https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza",
+      "date": "2026-11-15",
+      "claim_summary": "Hamas confirmed the death of Rafah brigade commander Samir Abu Younis in a strike on Khan Younis; Gaza health authorities and Al Jazeera continue to report cumulative deaths above 74,000 since 2023 and over 1,600 since the October 2025 ceasefire, framing Israeli actions as genocidal.",
+      "mission_relevance": "Muslim-source framing of the Israel-Hamas conflict as ongoing genocide or deliberate targeting of civilians; relevant to truth-seeking on war, self-defense, and anti-Christian or anti-Israel political claims.",
+      "limits": "Casualty figures originate primarily from Hamas-run Gaza health authorities; Al Jazeera does not independently verify combatant vs. civilian status or full context of strikes; contested by Israeli accounts.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Minnesota DFL trifecta renews push for constitutional amendment covering abortion and LGBTQ rights",
+      "source": "Mankato Free Press https://www.mankatofreepress.com/extra/with-dfl-trifecta-in-minnesota-abortion-and-lgbtq-rights-amendment-sees-renewed-push/article_bdd52834-1db5-4ed7-bd4a-12c2ace3b370.html",
+      "date": "2026-11-13",
+      "claim_summary": "With full Democratic control, advocates including Gender Justice and Rep. Leigh Finke are preparing a ballot measure to add equal-rights language covering sex, pregnancy, gender, and sexual orientation to the Minnesota Constitution.",
+      "mission_relevance": "Local political move that would constitutionalize abortion access and gender-identity claims in Minnesota, standing against traditional Christian ethics on life, sex, and family.",
+      "limits": "Language is not final; the measure must still pass the legislature and then a popular vote in a future election; does not currently alter existing statutes.",
+      "suggested_action": "candidate"
+    },
+    {
+      "headline": "Bans on transgender athletes in girls’ sports pass in Colorado and Washington",
+      "source": "The Washington Post https://www.washingtonpost.com/nation/2026/11/06/bans-transgender-athletes-girls-sports-pass-colorado-washington-state/",
+      "date": "2026-11-06",
+      "claim_summary": "Voters in Colorado and Washington approved measures limiting transgender girls from girls’ sports teams, joining more than two dozen other states, while Arizona and Nebraska strengthened existing bans.",
+      "mission_relevance": "Counters progressive claims that sex is purely self-identified; highlights biological reality in policy despite blue-state contexts and media framing of the results as rare conservative wins.",
+      "limits": "Does not address medical transitions or other gender policies; long-term enforcement and court challenges remain possible; WaPo reporting does not establish the scale of competitive impact.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "DOJ sues Minneapolis schools over teacher-diversity provisions in union contract",
+      "source": "K-12 Dive https://www.k12dive.com/news/justice-department-sues-minneapolis-diversity-equity-inclusion-union-contract/807822/",
+      "date": "2026-11-12",
+      "claim_summary": "Justice Department lawsuit challenges Minneapolis district-union agreement provisions that prioritize underrepresented groups in reassignments and layoffs and maintain an Anti-Bias Anti-Racist Staff Development council.",
+      "mission_relevance": "Federal action against DEI-based racial preferences in education, relevant to cultural claims that equity requires race-conscious hiring or retention contrary to equal-protection principles.",
+      "limits": "Lawsuit is pending; district and union responses not fully detailed in summary reporting; does not establish that the contract caused specific discriminatory outcomes.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Independent reporter Nick Shirley retracts Seattle grocery SNAP-fraud claim",
+      "source": "The Daily Beast / Seattle Times via reporting https://www.thedailybeast.com/magas-favorite-journalist-nick-shirley-24-issues-humiliating-retraction",
+      "date": "2026-11-12",
+      "claim_summary": "Nick Shirley issued a public correction and removed videos after a Seattle store clarified that a $120 EBT purchase was for a full case of Spam, not evidence of store collusion in trafficking.",
+      "mission_relevance": "Example of independent journalism on public-benefit fraud (often tied to Minnesota and other blue-state claims); retraction shows need for verification when challenging progressive or immigrant-community program use.",
+      "limits": "Retraction limited to this specific store claim; does not address other Shirley reports on daycare or broader fraud patterns; store harassment reported but not independently quantified.",
+      "suggested_action": "hold"
+    }
+  ]
+}
