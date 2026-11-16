@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-16",
+  "scan_type": "morning",
+  "items": [
+    {
+      "headline": "Israeli air strike kills senior Hamas commander in Gaza",
+      "source": "Al Jazeera (https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza)",
+      "date": "2026-11-15",
+      "claim_summary": "Hamas confirmed the death of Rafah brigade commander Samir Abu Younis in an Israeli drone strike in Khan Younis; Al Jazeera reports Gaza Health Ministry figures of 1,643 Palestinians killed since the October 2025 ceasefire and 74,695 since October 2023, framing the conflict as a 'genocidal war.'",
+      "mission_relevance": "Muslim-source framing of the Israel-Hamas war uses contested casualty tallies and 'genocide' language that distort historical and ethical claims about just war, self-defense after the October 7 attack, and the distinction between combatants and civilians.",
+      "limits": "Casualty figures come from the Gaza Health Ministry (Hamas-run); Al Jazeera does not independently verify combatant vs. civilian status or address Hamas use of civilian areas. Ceasefire violations and prior attacks are not fully contextualized.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Abortion rights weren’t the story of the midterms. They still won.",
+      "source": "Vox (https://www.vox.com/policy/509116/abortion-reproductive-rights-midterms-democrats-republicans-pregnancy)",
+      "date": "2026-11-04",
+      "claim_summary": "Voters approved constitutional abortion-rights measures in Missouri (rejecting a repeal that also banned gender-transition procedures for minors), Nevada, and Virginia, while rejecting an expansion in Idaho; Vox presents these as evidence of continued popular support for abortion access post-Roe.",
+      "mission_relevance": "Directly advances the post-Dobbs political project of expanding elective abortion (including late-term under health exceptions) and pairs it with opposition to restrictions on gender-transition interventions for minors—both opposed to the Christian ethic that human life begins at conception and that sex is binary.",
+      "limits": "Does not establish the medical or ethical necessity of the measures; viability language and mental-health exceptions remain contested; national progressive groups’ selective investment is noted but not fully explained.",
+      "suggested_action": "candidate"
+    },
+    {
+      "headline": "Keith Ellison re-elected as Minnesota attorney general",
+      "source": "Star Tribune (https://www.startribune.com/keith-ellison-re-elected-as-minnesota-attorney-general/601901285)",
+      "date": "2026-11-04",
+      "claim_summary": "Incumbent DFL Attorney General Keith Ellison defeated Republican Ron Schutz after a campaign centered on opposing President Trump and Operation Metro Surge, while overcoming GOP attacks focused on fraud in state social-service programs.",
+      "mission_relevance": "Minnesota political outcome in which documented large-scale fraud (previously amplified by independent reporting) failed to unseat a progressive official who prioritized resistance to federal immigration enforcement; touches local accountability, public-fund integrity, and the political use of identity framing.",
+      "limits": "Article reports election results and campaign messaging; does not adjudicate the scale or prosecution status of the underlying fraud cases or the legality of Operation Metro Surge.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "Israeli strike on Gaza hospital kills six, including surgeon, medics say",
+      "source": "Reuters (https://www.reuters.com/world/middle-east/israeli-strike-southern-gaza-hospital-kills-four-gaza-civil-defence-says-2026-11-11/)",
+      "date": "2026-11-11",
+      "claim_summary": "An Israeli airstrike on Nasser Hospital in Khan Younis killed at least six, including a surgeon; Israel stated it targeted a senior Hamas commander and other militants using the facility, which Hamas denied.",
+      "mission_relevance": "Illustrates ongoing post-ceasefire strikes in the Israel-Hamas war and the recurring pattern of contested claims about hospitals as military sites versus civilian targets—central to ethical evaluation of the conflict under just-war criteria.",
+      "limits": "Relies on Gaza medics/civil defense for casualty counts and identity of victims; Israeli military statement is reported but not independently verified in the piece; full chain of command and prior warnings are not detailed.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "The Democratic Tsunami Is a “Sea Change” for Reproductive Rights",
+      "source": "Mother Jones (https://www.motherjones.com/politics/2026/11/the-democratic-tsunami-is-a-sea-change-for-reproductive-rights/)",
+      "date": "2026-11-11",
+      "claim_summary": "Democratic midterm gains (House, Senate, state trifectas) are framed as enabling repeal of abortion restrictions, codification of protections, and blocking of anti-abortion judicial and cabinet nominees.",
+      "mission_relevance": "Left-leaning outlet treats expanded elective abortion access as an unqualified political good and predicts federal and state policy shifts that directly conflict with the protection of unborn life.",
+      "limits": "Speculative on future legislative outcomes; does not address the ethical or scientific status of the unborn, the Hyde Amendment’s historical role, or counter-arguments from pro-life sources.",
+      "suggested_action": "candidate"
+    }
+  ]
+}
