@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-18",
+  "items": [
+    {
+      "headline": "Battered by the Midterms, Abortion Foes Turn the Screws on the GOP",
+      "source": "Mother Jones — https://www.motherjones.com/politics/2026/11/battered-by-the-midterms-abortion-foes-turn-the-screws-on-the-gop/",
+      "date": "2026-11-16",
+      "claim_summary": "Anti-abortion groups including SBA Pro-Life America are pressing Republican senators to delay FDA commissioner confirmation and force immediate suspension of telehealth/mail rules for mifepristone after midterm losses.",
+      "mission_relevance": "Directly concerns abortion access, chemical abortion pills, and political pressure around the sanctity of unborn life versus progressive framing of reproductive rights.",
+      "limits": "Reports advocacy positions and public memos; does not establish safety data, clinical outcomes, or the moral status of the unborn.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "FDA Plans to Finish Safety Report on Abortion Pill by March 2027",
+      "source": "Bloomberg — https://www.bloomberg.com/news/articles/2026-11-17/fda-plans-to-finish-safety-report-on-abortion-pill-by-march-2027",
+      "date": "2026-11-17",
+      "claim_summary": "FDA anticipates completing its comparative safety study of mifepristone (vs surgical abortion) with results by mid-December 2026 and a final report by March 2027.",
+      "mission_relevance": "Ongoing federal review of the primary chemical abortion drug, which ends prenatal life and is central to post-Dobbs access debates.",
+      "limits": "Confirms timeline and study design only; does not report findings, adverse-event rates, or policy changes.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+      "source": "Al Jazeera — https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action",
+      "date": "2026-11-18",
+      "claim_summary": "US-backed Board of Peace report to the UN Security Council warns the year-old Gaza truce is at risk of collapse due to continued fighting and failure to implement 2025 deal terms.",
+      "mission_relevance": "Covers the Israel-Hamas conflict, war claims, and Islamist/Palestinian political framing that frequently opposes or distorts Christian and historical perspectives on the region.",
+      "limits": "Relies on Board report and Al Jazeera framing; casualty and 'genocide' language from Palestinian sources is contested and not independently verified here.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Israel’s parliament elects new Knesset speaker, weakening Netanyahu’s grip on power",
+      "source": "CNN — https://www.cnn.com/2026/11/17/middleeast/israel-knesset-speaker-netanyahu-intl",
+      "date": "2026-11-17",
+      "claim_summary": "Knesset elects Matan Kahana of the opposition Yashar party as speaker with 66 votes, marking the first major post-election shift after Netanyahu’s bloc won only 53 seats.",
+      "mission_relevance": "Israeli political realignment following elections that shape policy toward Hamas, Gaza, and the broader Middle East conflict involving Muslim-majority claims.",
+      "limits": "Reports vote totals and coalition math; does not establish future government formation or policy outcomes on security or settlements.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "Hopkins man charged with attempted murder in brutal attack on Somali Uber driver",
+      "source": "MPR News — https://www.mprnews.org/podcasts/minnesota-today",
+      "date": "2026-11-18",
+      "claim_summary": "Hennepin County prosecutors charged 25-year-old Samit Patel with attempted murder and carjacking after he allegedly strangled a Somali American Uber driver with a seatbelt and drove over him.",
+      "mission_relevance": "Local Minnesota incident involving reported violence against a Somali immigrant, touching immigration, community tensions, and public-safety claims that intersect with broader cultural and political narratives.",
+      "limits": "Charge stage only; does not establish motive, hate-crime status, or final judicial findings.",
+      "suggested_action": "candidate"
+    },
+    {
+      "headline": "Nick Shirley testifies on Minnesota Somali fraud before Senate committee",
+      "source": "Independent reporter (YouTube/Senate testimony) — reported via multiple outlets including Economic Times video summaries",
+      "date": "2026-11-17",
+      "claim_summary": "Independent journalist Nick Shirley testified before the Senate Homeland Security Committee detailing his investigation into alleged Medicaid and childcare fraud involving Minnesota’s Somali community.",
+      "mission_relevance": "Independent reporting on public-fund fraud claims in Minnesota that progressive outlets have downplayed; raises questions of accountability, immigration, and truth-telling versus narrative protection.",
+      "limits": "Testimony and viral video claims; prior reporting has contested specific facility occupancy and scale of fraud; independent verification of full totals remains incomplete.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Religious ruling revives memories in Israel of Rabin assassination",
+      "source": "Al Jazeera — https://www.aljazeera.com/news/2026/11/17/religious-ruling-revives-memories-in-israel-of-rabin-assassination",
+      "date": "2026-11-17",
+      "claim_summary": "A former rabbinical-court head issued a din-rodef ruling that some interpret as potentially justifying violence against politicians cooperating with Arab parties, prompting security concerns after the election.",
+      "mission_relevance": "Highlights internal Israeli religious-political tensions and Arab-party participation claims, relevant to Islamist/Muslim political narratives and regional stability.",
+      "limits": "Reports the letter and reactions; does not establish legal force of the ruling or any actual incitement outcome.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "We stomped all over the patriarchy",
+      "source": "The Nation (via Washington Post) — https://www.washingtonpost.com/ripple/2026/11/11/we-stomped-all-over-patriarchy/",
+      "date": "2026-11-11",
+      "claim_summary": "Progressive commentary celebrates midterm results as a rejection of 'patriarchy,' citing abortion-rights wins in multiple states and Democratic gains as smashing traditional structures.",
+      "mission_relevance": "Explicit 'pro feminism' and anti-traditional framing of election outcomes on abortion and gender politics that opposes Christian ethics on life, family, and sexual order.",
+      "limits": "Opinion/commentary piece; does not present new empirical data beyond previously reported ballot results.",
+      "suggested_action": "hold"
+    }
+  ]
+}
