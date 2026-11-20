@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-20",
+  "items": [
+    {
+      "headline": "Minnesota abortion laws face novel constitutional challenge at US appeals court",
+      "source": "Reuters - https://www.reuters.com/legal/government/minnesota-abortion-laws-face-novel-constitutional-challenge-us-appeals-court-2026-11-19/",
+      "date": "2026-11-19",
+      "claim_summary": "Plaintiffs argue Minnesota laws allowing abortions at any stage of pregnancy amount to state-sanctioned murder and violate a pregnant woman's constitutional due-process right to a relationship with her unborn child.",
+      "mission_relevance": "Direct local Minnesota challenge to expansive abortion laws on the grounds of the sanctity of life and parental rights of the mother, core to Christian ethics on abortion.",
+      "limits": "Appeal of a previously dismissed case; 8th Circuit panel has not issued a ruling; novel legal theory has not been established by any court; no factual finding of murder.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Judge orders US agriculture chief to stop sending religious emails from official account",
+      "source": "Reuters - https://www.reuters.com/legal/government/judge-orders-us-agriculture-chief-stop-sending-religious-emails-official-account-2026-11-20/",
+      "date": "2026-11-20",
+      "claim_summary": "A federal judge ruled that Agriculture Secretary Brooke Rollins' Christian holiday messages sent from her official email violated the Establishment Clause by assuming shared Christian faith among employees and using official authority.",
+      "mission_relevance": "Tests the boundaries of Christian expression by public officials against claims of government establishment of religion, relevant to cultural and political pressures on faith.",
+      "limits": "Single district-court ruling; USDA is evaluating appeal; does not bar personal faith expression outside official coercive contexts; contested reading of the Establishment Clause.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Dept. of Education to probe St. Paul schools over transgender policies",
+      "source": "Star Tribune - https://www.startribune.com/us-dept-of-education-to-probe-st-paul-schools-over-transgender-policies/601924688",
+      "date": "2026-11-19",
+      "claim_summary": "The U.S. Department of Education is investigating St. Paul Public Schools and four other districts for possible FERPA violations by withholding information about students' gender transitions from parents.",
+      "mission_relevance": "Local Minnesota investigation into school gender policies that prioritize student identity claims over parental notification, conflicting with Christian anthropology and family authority.",
+      "limits": "Investigation announced via government release; no findings of violation yet; district policies reportedly require some form of consent; outcome unknown.",
+      "suggested_action": "candidate"
+    },
+    {
+      "headline": "Palestinians in Gaza face new displacement after Israeli army operation",
+      "source": "Al Jazeera - https://www.aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation",
+      "date": "2026-11-19",
+      "claim_summary": "Israeli forces conducted a ground operation beyond the Yellow Line to target a suspected Hamas tunnel, displacing residents; Gaza sources report continued high Palestinian casualties since the 2025 ceasefire.",
+      "mission_relevance": "Priority Muslim-source framing of the Israel-Gaza war that often omits or minimizes Hamas agency and October 7 context, requiring factual and historical response on just war and conflict origins.",
+      "limits": "Casualty figures drawn from Hamas-run Gaza health authorities and contested by Israel; does not establish full operational context or ceasefire-violation findings; both sides accuse the other of violations.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Why the Midterms Were So Painful for Trans People",
+      "source": "The Nation - https://www.thenation.com/article/politics/trans-rights-midterm-elections/",
+      "date": "2026-11-20",
+      "claim_summary": "Despite Democratic midterm gains, some Democratic candidates campaigned on restricting transgender rights, leaving the trans community feeling politically abandoned on issues framed as existential.",
+      "mission_relevance": "Priority progressive outlet treating gender-identity claims as survival rights, highlighting political and cultural shifts that stand against Christian teaching on sex as binary and created.",
+      "limits": "Opinion commentary; does not present medical or biological evidence on sex or gender; selective emphasis on Democratic positions; no broader electoral data establishing causation.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "Anti-abortion groups lobby Trump to affirm unborn protections",
+      "source": "Washington Examiner - https://www.washingtonexaminer.com/policy/healthcare/4809020/anti-abortion-groups-push-trump-progress-for-life-veto-women-health-protection-act/",
+      "date": "2026-11-19",
+      "claim_summary": "A coalition of more than 50 anti-abortion groups is pressing President Trump to publicly commit to vetoing the Women's Health Protection Act, which would create a federal statutory right to abortion.",
+      "mission_relevance": "Mission-relevant coverage of pro-life efforts to block federal expansion of abortion access under an incoming Democratic Congress.",
+      "limits": "Advocacy letter only; no White House response reported; does not establish legislative prospects or the precise text of the WHPA.",
+      "suggested_action": "hold"
+    }
+  ]
+}
