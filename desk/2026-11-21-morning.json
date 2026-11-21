@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-21",
+  "items": [
+    {
+      "headline": "Minnesota abortion laws face novel constitutional challenge at US appeals court",
+      "source": "Reuters - https://www.reuters.com/legal/government/minnesota-abortion-laws-face-novel-constitutional-challenge-us-appeals-court-2026-11-19/",
+      "date": "2026-11-19",
+      "claim_summary": "An 8th Circuit panel heard arguments on reviving a lawsuit by pregnancy centers claiming Minnesota's no-limit abortion laws amount to state-sanctioned murder and violate pregnant women's constitutional rights to due process and parental relationship with the unborn.",
+      "mission_relevance": "Directly engages abortion ethics, the status of the unborn, and whether state law can treat elective abortion as ordinary healthcare without procedural safeguards.",
+      "limits": "The lower court dismissed for lack of standing; the appeals panel has not ruled; the plaintiffs' novel theory equating abortion to involuntary termination of parental rights is contested and untested.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "U.S. abstains from UN resolution on violence against women over 'safe abortion' language",
+      "source": "Jezebel / US Mission to the UN - https://www.jezebel.com/no-intl-right-to-abortion-u-s-abstains-from-u-n-resolution-to-address-violence-against-women-girls ; https://usun.usmission.gov/explanation-of-vote-for-unga-81-3c-resolution-intensification-of-efforts-to-prevent-and-eliminate-all-forms-of-violence-against-women-and-girls/",
+      "date": "2026-11-17",
+      "claim_summary": "The United States abstained on a UN Third Committee resolution against violence against women and girls because operative language referenced 'safe abortion' and 'sexual and reproductive health,' asserting there is no international right to abortion.",
+      "mission_relevance": "Tests whether progressive international frameworks treat abortion as a human right, contrary to Christian ethics that protect the unborn and reject coerced or expansive reproductive claims.",
+      "limits": "The resolution passed 175-1 (Somalia against) with six abstentions; the US statement is clear on sovereignty and Geneva Consensus but does not itself establish domestic policy changes.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "Zero Christian refugees from top persecution countries resettled in FY2026",
+      "source": "World Relief / Christian Post - https://worldrelief.org/world-relief-issues-statement-as-department-of-state-releases-final-fy-2026-refugee-arrival-numbers-confirms-zero-christians-from-top-countries-known-for-persecution-resettled/ ; https://www.christianpost.com/news/christian-leader-urges-lawmakers-to-pressure-trump-on-refugees.html",
+      "date": "2026-11-17",
+      "claim_summary": "World Relief and Open Doors report that FY2026 was the first year on record with zero Christian refugees resettled from the 50 countries of highest Christian persecution, down from nearly 30,000 in FY2024.",
+      "mission_relevance": "Highlights global Christian persecution and the practical consequence of restrictive refugee policy for believers fleeing violence, relevant to religious freedom and biblical hospitality ethics.",
+      "limits": "Figures rely on State Department arrival data cross-checked against Open Doors World Watch List; the administration prioritized South Africa and limited overall admissions; does not establish motive or compare all religious minorities equally.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Israeli drone attacks and ground operations continue in Gaza despite ceasefire claims",
+      "source": "Al Jazeera - https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza",
+      "date": "2026-11-20",
+      "claim_summary": "Al Jazeera reports Israeli drones and operations killed at least seven Palestinians in central Gaza, with Gaza health authorities claiming more than 1,600 killed since the October 2025 ceasefire and over 74,000 total since October 2023.",
+      "mission_relevance": "Muslim-source framing of the Israel-Hamas conflict as ongoing 'genocide' and ceasefire violations requires fact-checking against Israeli military statements, Hamas responsibility, and casualty methodology for accurate historical and ethical assessment.",
+      "limits": "Casualty figures come from Gaza Ministry of Health (Hamas-affiliated); Al Jazeera does not independently verify combatant vs. civilian status or Israeli claims of targeting tunnels and threats; no primary Israeli source quoted in detail.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Progressive outlets highlight Democratic distancing on transgender issues after midterms",
+      "source": "The Nation - https://www.thenation.com/article/society/why-the-midterms-were-so-painful-for-trans-people/",
+      "date": "2026-11-20",
+      "claim_summary": "The Nation reports that multiple Democratic candidates ran on limiting transgender participation in women's sports and related policies, which some activists view as a betrayal after the party's midterm gains.",
+      "mission_relevance": "Exposes the tension between gender ideology and biological sex in sports, medicine, and public policy, a cultural claim that conflicts with Christian anthropology of male and female.",
+      "limits": "Opinion-style analysis from a progressive outlet; does not establish the scale of policy change or voter motivation; ballot outcomes on related measures were mixed.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "Ms. Magazine: Anti-abortion movement preparing post-midterm attacks on medication abortion",
+      "source": "Ms. Magazine - https://msmagazine.com/2026/11/21/antiabortion-movement-post-midterms-medication-abortion-reproductive-rights/",
+      "date": "2026-11-21",
+      "claim_summary": "After midterm results, anti-abortion leaders including Students for Life and Susan B. Anthony are pressing for action on mifepristone access and later-term restrictions, with Massachusetts facing a 2028 ballot on its expanded late-term law.",
+      "mission_relevance": "Tracks ongoing political and legal contest over abortion pills and gestational limits, central to the mission's focus on abortion ethics and fact-based response to reproductive-rights framing.",
+      "limits": "Advocacy framing from a pro-choice outlet; specific legislative or administrative outcomes remain prospective; FDA mifepristone review timeline cited elsewhere as March 2027.",
+      "suggested_action": "hold"
+    }
+  ]
+}
