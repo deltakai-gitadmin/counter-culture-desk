@@ -1,1 +1,59 @@
-PLACEHOLDER
+{
+  "date": "2026-11-22",
+  "items": [
+    {
+      "headline": "St. Paul Public Schools under federal investigation for gender inclusion policy",
+      "source": "MPR News - https://www.mprnews.org/story/2026/11/20/st-paul-schools-gender-inclusion-policy-under-federal-investigation",
+      "date": "2026-11-20",
+      "claim_summary": "The U.S. Department of Education is probing St. Paul Public Schools for policies that allegedly conceal a child's gender identity from parents and facilitate social transitions without parental consent, citing PPRA and FERPA.",
+      "mission_relevance": "Directly challenges parental authority and biological sex reality in Minnesota schools, opposing Christian ethics on family, truth about sex, and the protection of minors from ideological medicalization.",
+      "limits": "The district denies the existence of a formal 'Gender Support Plan' and claims compliance; investigation is ongoing with no findings yet; primary text of the policy is referenced but not fully quoted here.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Minnesota abortion laws face novel constitutional challenge at US appeals court",
+      "source": "Reuters - https://www.reuters.com/legal/government/minnesota-abortion-laws-face-novel-constitutional-challenge-us-appeals-court-2026-11-19/",
+      "date": "2026-11-19",
+      "claim_summary": "Eighth Circuit panel heard arguments on whether Minnesota's unrestricted abortion laws violate due process by allowing termination of parental rights to the unborn without safeguards, in a suit by pregnancy centers and NIFLA.",
+      "mission_relevance": "Tests the legal status of the unborn and whether state policy can treat elective abortion as ordinary care without procedural protections for the mother-child relationship.",
+      "limits": "Lower court dismissed for lack of standing; panel appeared skeptical; the 'state-sanctioned murder' framing is the plaintiffs' theory, not a court finding; no ruling issued.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Displaced Palestinians brace for brutal winter amid continued Israeli operations",
+      "source": "NBC News - https://www.nbcnews.com/world/middle-east/displaced-palestinians-brace-brutal-winter-israels-aid-restrictions-fu-rcna609559 ; Al Jazeera - https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza",
+      "date": "2026-11-22",
+      "claim_summary": "NBC and Al Jazeera report Gaza residents facing winter rains, flooding, and displacement while Israeli strikes and demolitions continue past the Yellow Line, with Gaza health authorities citing over 1,660 deaths since the October 2025 ceasefire.",
+      "mission_relevance": "Requires careful assessment of war claims, casualty methodology, Hamas responsibility, and humanitarian framing against historical and biblical standards for just war and truth in conflict reporting.",
+      "limits": "Casualty totals rely on Gaza Ministry of Health (Hamas-affiliated); sources emphasize Palestinian suffering and Israeli restrictions while giving limited weight to Israeli statements on tunnels or threats; no independent verification of combatant status.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Judge blocks Trump administration limits on transgender care in HIV funding",
+      "source": "Reuters - https://www.reuters.com/world/judge-blocks-trumps-transgender-related-limits-hiv-funding-2026-11-19/",
+      "date": "2026-11-19",
+      "claim_summary": "A federal judge ruled the Trump administration cannot condition HIV grant funds on providers refraining from acknowledging gender identity or providing gender-affirming care, citing First Amendment and animus toward transgender people.",
+      "mission_relevance": "Centers on whether federal policy can reject gender ideology as a condition of funding, testing the collision between biological sex, medical ethics, and progressive claims of identity rights.",
+      "limits": "Ruling is preliminary; administration has broader executive orders on gender; the judge's 'animus' finding is contested; does not resolve the underlying medical or ethical status of gender-affirming interventions.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "U.S. abstains from UN resolution citing 'safe abortion' language",
+      "source": "Jezebel - https://www.jezebel.com/no-intl-right-to-abortion-u-s-abstains-from-u-n-resolution-to-address-violence-against-women-girls",
+      "date": "2026-11-20",
+      "claim_summary": "The United States abstained on a UN Third Committee resolution against violence against women because it referenced 'safe abortion' and 'sexual and reproductive health,' asserting there is no international right to abortion.",
+      "mission_relevance": "Exposes progressive international efforts to embed abortion as a human right, contrary to Christian ethics protecting the unborn, and the left-leaning outlet's framing of the abstention as a rejection of women's rights.",
+      "limits": "Jezebel presents the US position critically; the resolution passed with large majority; US explanation of vote is available but not fully reproduced in the outlet summary.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "Why the Midterms Were So Painful for Trans People",
+      "source": "The Nation - https://www.thenation.com/article/politics/trans-rights-midterm-elections/",
+      "date": "2026-11-20",
+      "claim_summary": "The Nation argues that Democratic midterm victories were tempered for transgender people because some Democratic candidates distanced themselves from expansive trans rights, treating them as a political liability.",
+      "mission_relevance": "Illustrates progressive prioritization of gender ideology and the political consequences when biological reality and parental concerns gain traction, relevant to cultural opposition to Christian sexual ethics.",
+      "limits": "Opinion-style analysis from a pro-left outlet; does not establish that specific candidates abandoned principles solely for electoral gain or quantify voter motives beyond selective examples.",
+      "suggested_action": "hold"
+    }
+  ]
+}
