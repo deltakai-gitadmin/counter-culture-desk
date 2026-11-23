@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-23",
+  "scan_type": "morning",
+  "items": [
+    {
+      "headline": "Israeli strikes kill at least three in Gaza, including UNRWA worker",
+      "source": "Reuters - https://www.reuters.com/world/middle-east/israeli-strike-kills-worker-with-un-palestinian-agency-gaza-agency-says-2026-11-23/",
+      "date": "2026-11-23",
+      "claim_summary": "Israeli airstrikes killed at least three people in Gaza on Monday, including a long-time UNRWA worker near a water well in Jabalia, with local health officials reporting the deaths.",
+      "mission_relevance": "Ongoing Israel-Hamas conflict reporting that frames Israeli actions amid disputed ceasefire compliance; relevant to war claims, civilian casualties, and anti-Israel narratives common in progressive and Muslim sources that require biblical just-war and historical scrutiny.",
+      "limits": "Casualty figures and circumstances rely on Gaza health officials and UNRWA (often contested for accuracy and Hamas influence); Israeli military response on targeting not fully detailed in this report; does not establish intentional targeting of non-combatants or overall war aims.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Appeals court says federal law requiring accommodations for pregnant workers is unconstitutional",
+      "source": "The Washington Post - https://www.washingtonpost.com/business/2026/11/22/law-pregnant-workers-court-appeals/",
+      "date": "2026-11-22",
+      "claim_summary": "The 5th Circuit Court of Appeals ruled 9-8 that the Pregnant Workers Fairness Act is unconstitutional because Congress lacked a proper physical quorum due to COVID-era proxy voting when it passed the 2022 law.",
+      "mission_relevance": "Legal development affecting workplace protections for pregnant women; intersects with abortion-adjacent reproductive policy debates and constitutional limits on federal power, relevant to Christian ethics on supporting mothers and life.",
+      "limits": "Applies immediately only in the 5th Circuit (TX, LA, MS); expected to be appealed to the Supreme Court; does not address the substance of pregnancy accommodations or abortion policy itself.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "Minnesota abortion laws face novel constitutional challenge at US appeals court",
+      "source": "Reuters - https://www.reuters.com/legal/government/minnesota-abortion-laws-face-novel-constitutional-challenge-us-appeals-court-2026-11-19/",
+      "date": "2026-11-19",
+      "claim_summary": "The 8th Circuit heard arguments on a novel lawsuit claiming Minnesota's laws allowing abortion at any stage amount to state-sanctioned murder and violate pregnant women's constitutional parental rights under the 14th Amendment.",
+      "mission_relevance": "Local Minnesota abortion policy under legal challenge; directly touches the core mission on abortion, the unborn, and Christian ethics of protecting life versus expansive 'reproductive freedom' claims.",
+      "limits": "Panel appeared skeptical per reports; district court previously dismissed for lack of standing; no ruling yet; plaintiffs' parental-rights theory is novel and contested.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "U closes cultural dorm communities amid federal scrutiny of race-based programs",
+      "source": "Star Tribune - https://www.startribune.com/university-of-minnesota-closes-living-learning-communities/601915908",
+      "date": "2026-11-23",
+      "claim_summary": "The University of Minnesota will shutter five freshman living-learning communities oriented toward Black, Latino, and Hmong students amid a federal civil rights complaint and broader Trump administration DEI scrutiny.",
+      "mission_relevance": "Local Minnesota higher-education identity politics and race-based housing; relevant to cultural claims that prioritize group identity over individual merit or biblical unity in Christ, often advanced by progressive outlets.",
+      "limits": "University frames as transition to broader inclusive model; complaint alleges Fair Housing Act violations but no final findings; does not establish systemic discrimination or student outcomes.",
+      "suggested_action": "candidate"
+    },
+    {
+      "headline": "Battered by the Midterms, Abortion Foes Turn the Screws on the GOP",
+      "source": "Mother Jones - https://www.motherjones.com/politics/2026/11/battered-by-the-midterms-abortion-foes-turn-the-screws-on-the-gop/",
+      "date": "2026-11-16",
+      "claim_summary": "After midterm losses, anti-abortion groups like SBA Pro-Life America are pressuring Republicans to delay FDA nominee confirmation and force restrictions on mifepristone telehealth and mail distribution.",
+      "mission_relevance": "Progressive framing of pro-life political strategy post-election; highlights ongoing abortion policy battles over chemical abortion, a key issue where sources often minimize fetal life and safety data.",
+      "limits": "Source is advocacy-oriented; reports group demands but does not establish feasibility of FDA action or full context of midterm results; mifepristone safety review timeline remains into 2027.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
+      "source": "Al Jazeera - https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza",
+      "date": "2026-11-22",
+      "claim_summary": "Al Jazeera reports hundreds of displaced Palestinians protesting continued Israeli destruction of homes beyond the Yellow Line, citing Gaza officials on rising death tolls since the 2025 ceasefire.",
+      "mission_relevance": "Muslim-source coverage of Gaza war emphasizing Palestinian displacement and Israeli actions; typical of narratives that require cross-checking against Israeli military claims, Hamas role, and historical/biblical context of the conflict.",
+      "limits": "Relies heavily on Gaza Ministry of Health and local officials (Hamas-influenced); does not detail Israeli targeting criteria or Hamas military activity; death tolls post-ceasefire are contested.",
+      "suggested_action": "research"
+    }
+  ]
+}
