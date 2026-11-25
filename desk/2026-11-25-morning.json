@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "headline": "Democrats supporting abortion rights won big in the midterms, but vast changes are unlikely soon",
+      "source": "Associated Press https://apnews.com/article/abortion-midterm-states-bans-5a7c40258e342764400a96c79d673858",
+      "date": "2026-11-24",
+      "claim_summary": "Democratic candidates who ran on abortion rights platforms won major victories in the 2026 midterms, but they are unlikely to quickly overturn strict state abortion bans because they lack full control of legislatures and governorships in the states with the tightest restrictions, and any federal effort would face a presidential veto.",
+      "mission_relevance": "Directly concerns abortion policy and the political contest over whether elective abortion is treated as a right or as the taking of innocent life, a core Christian ethics issue.",
+      "limits": "The article reports electoral outcomes and institutional constraints; it does not establish the moral status of the unborn or the medical necessity of any particular procedure.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "With DFL trifecta in Minnesota, abortion and LGBTQ rights amendment sees renewed push",
+      "source": "Pioneer Press / Twin Cities https://www.twincities.com/2026/11/12/mn-abortion-lgbtq-rights-amendment-era/",
+      "date": "2026-11-12",
+      "claim_summary": "Minnesota DFL lawmakers, now holding a trifecta, are renewing the push for a state Equal Rights Amendment that would enshrine protections including for pregnancy outcomes (abortion) and gender identity into the state constitution for a possible 2028 ballot.",
+      "mission_relevance": "Local Minnesota effort to constitutionalize abortion access and gender-identity claims that conflict with biblical anthropology and the protection of the unborn.",
+      "limits": "Reports advocacy plans and prior near-miss; final ballot language and voter outcome remain prospective; does not prove that existing statutes are insufficient.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "U.S. Department of Education probes school districts for secret gender support plans",
+      "source": "U.S. Department of Education https://www.ed.gov/about/news/press-release/us-department-of-education-probes-school-districts-across-nation-secret-gender-support-plans-and-facilitating-childrens-gender-transitions-without",
+      "date": "2026-11-18",
+      "claim_summary": "The Department opened investigations into five districts including St. Paul Public Schools for policies that allegedly conceal a child’s claimed gender identity from parents and facilitate social transitions without parental consent.",
+      "mission_relevance": "Concerns parental rights, the social and medical transition of minors, and school policies that treat gender ideology as settled while withholding information from parents—issues that contradict Christian teaching on the created nature of male and female.",
+      "limits": "Investigation is ongoing; the Department has not issued findings of violation; district officials state their policies comply with law and that formal name-change forms require parental signature for minors.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Amnesty says Israeli actions in Gaza preventing births, urges ICC genocide probe",
+      "source": "Amnesty International via multiple outlets including L'Orient Today https://today.lorientlejour.com/article/1555564/amnesty-says-israeli-actions-in-gaza-preventing-births.html",
+      "date": "2026-11-25",
+      "claim_summary": "Amnesty International’s new report claims Israeli military actions and blockade have prevented access to fertility treatment, contributed to miscarriages and stillbirths, and destroyed IVF clinics, and calls for the ICC to investigate the possible genocidal act of imposing measures intended to prevent births.",
+      "mission_relevance": "War and genocide allegations involving reproductive harm; tests claims of intentional destruction of a people against the facts of the October 7 attack, hostage-taking, and Hamas use of civilian infrastructure.",
+      "limits": "Amnesty itself notes it cannot definitively establish the specific intent required under the Genocide Convention for the prevention-of-births prong; casualty figures rely on Hamas-run health authorities; does not address Hamas’s role in initiating the conflict or embedding among civilians.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Israeli strike kills Hamas security official, his wife and children",
+      "source": "Reuters https://www.reuters.com/world/middle-east/israeli-strike-kills-hamas-official-his-wife-children-2026-11-25/",
+      "date": "2026-11-25",
+      "claim_summary": "Israel’s military killed a senior Hamas internal-security official, Mohammad Abuelouf, along with his wife and two children in a Gaza City airstrike; a second senior Hamas security official was killed the previous day.",
+      "mission_relevance": "Ongoing Gaza conflict reporting that frequently frames Israeli strikes against Hamas operatives as indiscriminate while minimizing the group’s continued armed control and refusal to disarm under the ceasefire.",
+      "limits": "Relies on Hamas-run interior ministry and medics for family casualties; Israeli military states it targeted military operatives; does not establish the precise circumstances of the children’s presence or independent verification of all deaths.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "Battered by the Midterms, Abortion Foes Turn the Screws on the GOP",
+      "source": "Mother Jones https://www.motherjones.com/politics/2026/11/battered-by-the-midterms-abortion-foes-turn-the-screws-on-the-gop/",
+      "date": "2026-11-16",
+      "claim_summary": "After midterm losses, leading anti-abortion groups are pressuring Senate Republicans to delay FDA commissioner confirmation unless the administration commits to restricting telehealth and mail distribution of mifepristone.",
+      "mission_relevance": "Internal dynamics of the pro-life political effort versus progressive framing that treats any restriction on chemical abortion as extreme.",
+      "limits": "Advocacy reporting from a progressive outlet; does not establish the medical safety profile of mifepristone or the electoral causality of the midterm results.",
+      "suggested_action": "hold"
+    }
+  ]
+}
