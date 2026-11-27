@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-27",
+  "type": "morning",
+  "items": [
+    {
+      "headline": "Federal appeals court hears novel challenge to Minnesota abortion laws with no gestational limit",
+      "source": "Reuters - https://www.reuters.com/legal/government/minnesota-abortion-laws-face-novel-constitutional-challenge-us-appeals-court-2026-11-19/",
+      "date": "2026-11-19",
+      "claim_summary": "Anti-abortion pregnancy centers and medical directors argue Minnesota laws permitting abortion at any stage amount to state-sanctioned murder and violate a pregnant woman's constitutional due-process rights and relationship with her unborn child by lacking safeguards such as court hearings.",
+      "mission_relevance": "Directly engages abortion ethics, Minnesota policy under the PRO Act and Doe v. Gomez, and claims that unrestricted abortion denies parental rights or due process; relevant to Christian ethics on the unborn and state power.",
+      "limits": "The 8th Circuit panel has not ruled; lower court dismissed for standing; plaintiffs' theory that only courts may end a parental relationship is novel and untested; does not establish that current law is unconstitutional or that abortions are involuntary.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "U.S. Department of Education investigates St. Paul Public Schools over gender inclusion policy and parental notice",
+      "source": "MPR News - https://www.mprnews.org/story/2026/11/20/st-paul-schools-gender-inclusion-policy-under-federal-investigation",
+      "date": "2026-11-20",
+      "claim_summary": "The Department alleges the district's gender inclusion policy and related forms may conceal a child's preferred name, pronouns, or gender identity from parents and facilitate social transitions without required consent, potentially violating FERPA and PPRA.",
+      "mission_relevance": "Touches parental rights, school policies on gender identity, and claims about social transition of minors; relevant to Christian ethics on parental authority, biological sex, and protection of children.",
+      "limits": "Investigation is early-stage with no findings of violation; district states its formal change form requires parental signature for under-18s and that policy complies with law; does not establish that staff routinely hide information or that students are medically transitioned at school.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Al Jazeera and Reuters report continued Israeli strikes in Gaza more than a year after ceasefire, citing high Palestinian death tolls",
+      "source": "Al Jazeera - https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza ; Reuters - https://www.reuters.com/world/middle-east/israel-kills-nine-gaza-including-hamas-appointed-deputy-education-minister-2026-11-26/",
+      "date": "2026-11-26",
+      "claim_summary": "Gaza's Health Ministry reports over 1,600 Palestinians killed since the October 2025 ceasefire; Israel conducted a ground operation beyond the Yellow Line and targeted Hamas officials, which Hamas and Al Jazeera frame as ceasefire violations and war crimes.",
+      "mission_relevance": "War and political claims from priority Muslim sources (Al Jazeera) that often frame Israeli actions as systematic displacement or genocide while downplaying Hamas's role; relevant to historical truth on the conflict and just-war ethics.",
+      "limits": "Death figures come from Gaza Health Ministry (Hamas-run) and are contested; Israeli military states operations target Hamas infrastructure and personnel; does not establish genocide, the full civilian-combatant breakdown, or that the ceasefire has been fully abandoned by either side.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "Independent journalist Nick Shirley continues coverage of alleged Minnesota daycare fraud after viral video and House testimony",
+      "source": "Nick Shirley (YouTube/independent) - referenced in Star Tribune https://www.startribune.com/minnesota-investigates-child-care-centers-following-fraud-accusations/601556597 and recent hearings",
+      "date": "2026-11-26",
+      "claim_summary": "Shirley's December 2025 video alleged empty or low-activity Somali-operated daycares billed millions in Child Care Assistance Program funds; he has since testified and expanded claims, prompting state inspections and federal freezes or probes.",
+      "mission_relevance": "Minnesota local fraud claims intersecting with immigration, public funds, and accountability; relevant to honesty in public administration and stewardship of taxpayer resources under Christian ethics.",
+      "limits": "State regulators reported children present at most inspected sites and found licensing issues rather than immediate wholesale fraud confirmation; total dollar figures remain contested or unverified; anonymous or unconfirmed source elements in original video; no final criminal adjudication of the broadest claims.",
+      "suggested_action": "candidate"
+    },
+    {
+      "headline": "Democrats expand abortion access opportunities after midterms; Minnesota among states with new trifecta control",
+      "source": "Associated Press / Washington Post - https://www.washingtonpost.com/politics/2026/11/24/abortion-midterm-states-bans/",
+      "date": "2026-11-24",
+      "claim_summary": "Voters approved or protected abortion rights measures in Nevada, Virginia, and Missouri; Democrats gained trifectas in Minnesota and other states already allowing abortion through viability, with calls for further constitutional protections.",
+      "mission_relevance": "Political claims advancing unrestricted or expanded abortion access as a right, including in Minnesota; relevant to Christian ethics on the sanctity of unborn life and state constitutional changes.",
+      "limits": "Does not establish that abortion is a constitutional right under the federal Constitution post-Dobbs; Minnesota already has broad statutory and judicial protections; future legislative or ballot outcomes remain prospective.",
+      "suggested_action": "hold"
+    }
+  ]
+}
