@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-28",
+  "scan_type": "morning",
+  "items": [
+    {
+      "headline": "Minnesota abortion laws face novel constitutional challenge at US appeals court",
+      "source": "Reuters - https://www.reuters.com/legal/government/minnesota-abortion-laws-face-novel-constitutional-challenge-us-appeals-court-2026-11-19/",
+      "date": "2026-11-19",
+      "claim_summary": "Anti-abortion groups and pregnancy centers are appealing a dismissal of their lawsuit claiming Minnesota's no-limit abortion laws amount to state-sanctioned murder and violate pregnant women's constitutional rights to a relationship with their unborn child.",
+      "mission_relevance": "Directly engages abortion ethics, Minnesota policy, and claims that unrestricted abortion conflicts with due-process protections for the unborn and mothers.",
+      "limits": "The source reports oral arguments; no ruling has issued. Plaintiffs' constitutional theory is novel and contested; the lower court dismissed the case.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Texas drops lawsuits against abortion providers testing state 'shield laws'",
+      "source": "Reuters - https://www.reuters.com/legal/government/texas-drops-lawsuits-against-abortion-providers-testing-state-shield-laws-2026-11-23/",
+      "date": "2026-11-23",
+      "claim_summary": "Outgoing Texas AG Ken Paxton dismissed lawsuits against out-of-state providers accused of mailing abortion pills into Texas, after a Democrat won the AG race.",
+      "mission_relevance": "Illustrates state-level battles over abortion enforcement, shield laws, and the practical limits of pro-life litigation after electoral shifts.",
+      "limits": "Dismissals are reported without full explanation; does not establish the legality of the underlying pill distribution or shield laws.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "Democrats supporting abortion rights won big in the midterms, but vast changes are unlikely soon",
+      "source": "The Washington Post / Associated Press - https://www.washingtonpost.com/politics/2026/11/24/abortion-midterm-states-bans/",
+      "date": "2026-11-24",
+      "claim_summary": "Democrats who campaigned on abortion rights gained ground, yet they did not secure full control in states with the strictest bans, limiting near-term policy reversals.",
+      "mission_relevance": "Tracks political framing of abortion as a winning issue and the gap between electoral rhetoric and actual legislative capacity to expand or restrict the practice.",
+      "limits": "Focuses on political outcomes; does not establish moral or medical claims about abortion.",
+      "suggested_action": "hold"
+    },
+    {
+      "headline": "Gaza’s chess players survive a genocide and rebuild a community",
+      "source": "Al Jazeera - https://www.aljazeera.com/features/2026/11/28/gazas-chess-players-survive-a-genocide-and-rebuild-a-community",
+      "date": "2026-11-28",
+      "claim_summary": "Al Jazeera reports Gaza chess players returning to tournaments after 'three years of genocide,' citing over 74,000 Palestinian deaths since October 2023.",
+      "mission_relevance": "Muslim-source framing of the Israel-Hamas war as 'genocide' and ongoing siege, a recurring claim that requires factual scrutiny against primary casualty data, Hamas's role, and October 7 context.",
+      "limits": "Uses 'genocide' as established fact without independent legal determination in the text; death figures come from the Gaza Health Ministry (Hamas-run); no Israeli or independent verification presented.",
+      "suggested_action": "candidate"
+    },
+    {
+      "headline": "MSF ‘outraged’ as two workers killed in Israeli strike on Gaza",
+      "source": "CNN / Al Jazeera - https://www.cnn.com/2026/11/28/middleeast/msf-gaza-israel-deaths-intl",
+      "date": "2026-11-28",
+      "claim_summary": "Two Médecins Sans Frontières watchmen were killed in an Israeli strike on a Gaza clinic that MSF says was clearly marked; the strike is part of intensified targeting of Hamas figures under a nominal ceasefire.",
+      "mission_relevance": "War reporting that centers civilian and aid-worker deaths while noting Israeli claims of targeting Hamas; relevant to just-war ethics, civilian protection, and competing casualty narratives.",
+      "limits": "Israeli military comment not yet available in the report; does not establish whether the clinic was used for military purposes or the precise targeting process.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "Why the Midterms Were So Painful for Trans People",
+      "source": "The Nation - https://www.thenation.com/article/politics/trans-rights-midterm-elections/",
+      "date": "2026-11-20",
+      "claim_summary": "The Nation argues that Democratic midterm gains still left transgender people feeling betrayed because some Democratic candidates adopted positions opposing males in female sports or restricting gender medicine.",
+      "mission_relevance": "Left-leaning framing of biological sex distinctions in sports and medicine as a betrayal of 'trans rights,' relevant to Christian ethics on sex, identity, and child protection.",
+      "limits": "Opinion-style analysis; does not present clinical outcome data on puberty blockers or long-term effects of cross-sex interventions.",
+      "suggested_action": "candidate"
+    },
+    {
+      "headline": "Nick Shirley testifies on Minnesota ‘ghost daycares’ and Somali-linked fraud",
+      "source": "Economic Times / House Judiciary (via reporting) - https://economictimes.indiatimes.com/news/international/world-news/ghost-daycares-in-minnesota-nick-shirley-dexter-drop-somali-fraud-bombshell-at-house-hearing/videoshow/136172406.cms",
+      "date": "2026-11-25",
+      "claim_summary": "Independent reporter Nick Shirley told a House hearing that empty or non-operational daycares in Minnesota, many linked to Somali communities, received substantial public funds.",
+      "mission_relevance": "Local Minnesota fraud allegations involving public funds and immigrant communities; intersects cultural reporting, accountability, and claims that mainstream outlets under-covered the story.",
+      "limits": "Shirley's claims have not been independently verified by major outlets in the available reporting; some prior videos have faced legal challenges; hearing testimony is not a completed investigation.",
+      "suggested_action": "research"
+    },
+    {
+      "headline": "With DFL trifecta in Minnesota, abortion and LGBTQ rights amendment sees renewed push",
+      "source": "Mankato Free Press - https://www.mankatofreepress.com/extra/with-dfl-trifecta-in-minnesota-abortion-and-lgbtq-rights-amendment-sees-renewed-push/article_bdd52834-1db5-4ed7-bd4a-12c2ace3b370.html",
+      "date": "2026-11-13",
+      "claim_summary": "Minnesota DFL lawmakers and advocates plan to advance a constitutional Equal Rights Amendment covering abortion, gender, and sexual orientation for the 2028 ballot after securing a legislative trifecta.",
+      "mission_relevance": "Direct Minnesota political effort to embed expansive abortion access and gender-identity protections in the state constitution, opposing traditional Christian ethics on life and sex.",
+      "limits": "Language is not final; reports activist plans rather than enacted law.",
+      "suggested_action": "candidate"
+    }
+  ]
+}
